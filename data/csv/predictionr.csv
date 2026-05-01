@@ -1,0 +1,235 @@
+district,disease,category,target_week_monday,predicted_cases_week_total
+Ahilyanagar,Acute diarrhoeal disease,water-borne,2026-03-09,107
+Ahilyanagar,Chickenpox,air-borne,2026-03-09,4
+Ahilyanagar,Chikungunya,vector-borne,2026-03-09,3
+Ahilyanagar,Cholera,water-borne,2026-03-09,0
+Ahilyanagar,Dengue,vector-borne,2026-03-09,6
+Ahilyanagar,Japanese encephalitis,vector-borne,2026-03-09,1
+Ahilyanagar,Malaria,vector-borne,2026-03-09,3
+Ahilyanagar,Measles,air-borne,2026-03-09,0
+Ahilyanagar,Rubella,air-borne,2026-03-09,0
+Ahilyanagar,Scrub typhus,vector-borne,2026-03-09,8
+Ahilyanagar,Zika,vector-borne,2026-03-09,0
+Akola,Acute diarrhoeal disease,water-borne,2026-03-09,25
+Akola,Chickenpox,air-borne,2026-03-09,14
+Akola,Chikungunya,vector-borne,2026-03-09,6
+Akola,Cholera,water-borne,2026-03-09,0
+Akola,Dengue,vector-borne,2026-03-09,39
+Akola,Dysentery,water-borne,2026-03-09,27
+Akola,Enteric fever,water-borne,2026-03-09,32
+Akola,Hepatitis A,water-borne,2026-03-09,0
+Akola,Malaria,vector-borne,2026-03-09,21
+Akola,Measles,air-borne,2026-03-09,3
+Akola,Mumps,air-borne,2026-03-09,4
+Amravati,Acute diarrhoeal disease,water-borne,2026-03-09,56
+Amravati,Acute gastroenteritis,water-borne,2026-03-09,113
+Amravati,Chickenpox,air-borne,2026-03-09,2
+Amravati,Chikungunya,vector-borne,2026-03-09,0
+Amravati,Cholera,water-borne,2026-03-09,1
+Amravati,Dengue,vector-borne,2026-03-09,7
+Amravati,Dysentery,water-borne,2026-03-09,22
+Amravati,Hepatitis E,water-borne,2026-03-09,9
+Amravati,Malaria,vector-borne,2026-03-09,27
+Amravati,Measles,air-borne,2026-03-09,2
+Amravati,Scrub typhus,vector-borne,2026-03-09,0
+Beed,Acute diarrhoeal disease,water-borne,2026-03-09,107
+Beed,Chickenpox,air-borne,2026-03-09,0
+Beed,Chikungunya,vector-borne,2026-03-09,4
+Beed,Dengue,vector-borne,2026-03-09,23
+Beed,Enteric fever,water-borne,2026-03-09,4
+Beed,Hepatitis A,water-borne,2026-03-09,7
+Bhandara,Acute diarrhoeal disease,water-borne,2026-03-09,36
+Bhandara,Acute gastroenteritis,water-borne,2026-03-09,79
+Bhandara,Chickenpox,air-borne,2026-03-09,1
+Bhandara,Dengue,vector-borne,2026-03-09,24
+Bhandara,Hepatitis A,water-borne,2026-03-09,11
+Bhandara,Japanese encephalitis,vector-borne,2026-03-09,0
+Bhandara,Malaria,vector-borne,2026-03-09,15
+Bhandara,Measles,air-borne,2026-03-09,2
+Bhandara,Mumps,air-borne,2026-03-09,4
+Buldhana,Dengue,vector-borne,2026-03-09,14
+Buldhana,Mumps,air-borne,2026-03-09,16
+Chandrapur,Acute diarrhoeal disease,water-borne,2026-03-09,48
+Chandrapur,Acute gastroenteritis,water-borne,2026-03-09,49
+Chandrapur,Dengue,vector-borne,2026-03-09,11
+Chandrapur,Hepatitis A,water-borne,2026-03-09,9
+Chandrapur,Malaria,vector-borne,2026-03-09,3
+Chhatrapati Sambhajinagar,Acute diarrhoeal disease,water-borne,2026-03-09,163
+Chhatrapati Sambhajinagar,Chickenpox,air-borne,2026-03-09,9
+Chhatrapati Sambhajinagar,Chikungunya,vector-borne,2026-03-09,0
+Chhatrapati Sambhajinagar,Cholera,water-borne,2026-03-09,2
+Chhatrapati Sambhajinagar,Dengue,vector-borne,2026-03-09,59
+Chhatrapati Sambhajinagar,Measles,air-borne,2026-03-09,3
+Dharashiv,Acute diarrhoeal disease,water-borne,2026-03-09,50
+Dharashiv,Acute gastroenteritis,water-borne,2026-03-09,73
+Dharashiv,Chickenpox,air-borne,2026-03-09,6
+Dharashiv,Chikungunya,vector-borne,2026-03-09,1
+Dharashiv,Cholera,water-borne,2026-03-09,1
+Dharashiv,Dengue,vector-borne,2026-03-09,28
+Dharashiv,Malaria,vector-borne,2026-03-09,17
+Dharashiv,Measles,air-borne,2026-03-09,0
+Dhule,Acute diarrhoeal disease,water-borne,2026-03-09,40
+Dhule,Dengue,vector-borne,2026-03-09,38
+Dhule,Malaria,vector-borne,2026-03-09,17
+Dhule,Measles,air-borne,2026-03-09,3
+Gadchiroli,Acute diarrhoeal disease,water-borne,2026-03-09,60
+Gadchiroli,Acute gastroenteritis,water-borne,2026-03-09,97
+Gadchiroli,Dengue,vector-borne,2026-03-09,19
+Gadchiroli,Dysentery,water-borne,2026-03-09,14
+Gadchiroli,Japanese encephalitis,vector-borne,2026-03-09,0
+Gadchiroli,Malaria,vector-borne,2026-03-09,8
+Gadchiroli,Scrub typhus,vector-borne,2026-03-09,3
+Gondia,Acute diarrhoeal disease,water-borne,2026-03-09,35
+Gondia,Chickenpox,air-borne,2026-03-09,9
+Gondia,Cholera,water-borne,2026-03-09,0
+Gondia,Malaria,vector-borne,2026-03-09,18
+Gondia,Pertussis,air-borne,2026-03-09,0
+Hingoli,Dengue,vector-borne,2026-03-09,7
+Jalgaon,Acute diarrhoeal disease,water-borne,2026-03-09,26
+Jalgaon,Chikungunya,vector-borne,2026-03-09,9
+Jalgaon,Cholera,water-borne,2026-03-09,6
+Jalgaon,Dengue,vector-borne,2026-03-09,15
+Jalgaon,Jaundice,water-borne,2026-03-09,5
+Jalgaon,Measles,air-borne,2026-03-09,4
+Jalgaon,Mumps,air-borne,2026-03-09,5
+Jalna,Acute diarrhoeal disease,water-borne,2026-03-09,89
+Jalna,Acute gastroenteritis,water-borne,2026-03-09,145
+Jalna,Chikungunya,vector-borne,2026-03-09,7
+Jalna,Dengue,vector-borne,2026-03-09,18
+Jalna,Japanese encephalitis,vector-borne,2026-03-09,0
+Jalna,Measles,air-borne,2026-03-09,1
+Kolhapur,Acute diarrhoeal disease,water-borne,2026-03-09,124
+Kolhapur,Acute gastroenteritis,water-borne,2026-03-09,56
+Kolhapur,Chickenpox,air-borne,2026-03-09,6
+Kolhapur,Chikungunya,vector-borne,2026-03-09,6
+Kolhapur,Cholera,water-borne,2026-03-09,1
+Kolhapur,Dengue,vector-borne,2026-03-09,38
+Kolhapur,Dysentery,water-borne,2026-03-09,16
+Kolhapur,HFMD,air-borne,2026-03-09,0
+Kolhapur,Hepatitis A,water-borne,2026-03-09,2
+Kolhapur,Hepatitis E,water-borne,2026-03-09,4
+Kolhapur,Malaria,vector-borne,2026-03-09,26
+Kolhapur,Scrub typhus,vector-borne,2026-03-09,4
+Kolhapur,Zika,vector-borne,2026-03-09,0
+Latur,Chickenpox,air-borne,2026-03-09,4
+Latur,Chikungunya,vector-borne,2026-03-09,5
+Latur,Dengue,vector-borne,2026-03-09,25
+Latur,Hepatitis A,water-borne,2026-03-09,1
+Latur,Measles,air-borne,2026-03-09,0
+Nagpur,Acute diarrhoeal disease,water-borne,2026-03-09,28
+Nagpur,Acute gastroenteritis,water-borne,2026-03-09,53
+Nagpur,Chickenpox,air-borne,2026-03-09,7
+Nagpur,Chikungunya,vector-borne,2026-03-09,8
+Nagpur,Cholera,water-borne,2026-03-09,4
+Nagpur,Dengue,vector-borne,2026-03-09,17
+Nagpur,Fever with rash,air-borne,2026-03-09,8
+Nagpur,Hepatitis E,water-borne,2026-03-09,0
+Nagpur,Japanese encephalitis,vector-borne,2026-03-09,1
+Nagpur,Measles,air-borne,2026-03-09,3
+Nagpur,Mumps,air-borne,2026-03-09,8
+Nagpur,Rubella,air-borne,2026-03-09,2
+Nagpur,Scrub typhus,vector-borne,2026-03-09,4
+Nanded,Acute diarrhoeal disease,water-borne,2026-03-09,184
+Nanded,Acute gastroenteritis,water-borne,2026-03-09,193
+Nanded,Chikungunya,vector-borne,2026-03-09,6
+Nanded,Dengue,vector-borne,2026-03-09,49
+Nanded,Measles,air-borne,2026-03-09,3
+Nanded,Mumps,air-borne,2026-03-09,6
+Nandurbar,Acute diarrhoeal disease,water-borne,2026-03-09,180
+Nandurbar,Cholera,water-borne,2026-03-09,0
+Nandurbar,Dengue,vector-borne,2026-03-09,6
+Nandurbar,Measles,air-borne,2026-03-09,0
+Nashik,Acute diarrhoeal disease,water-borne,2026-03-09,102
+Nashik,Chikungunya,vector-borne,2026-03-09,6
+Nashik,Cholera,water-borne,2026-03-09,0
+Nashik,Dengue,vector-borne,2026-03-09,14
+Nashik,Diarrhea,water-borne,2026-03-09,55
+Nashik,Malaria,vector-borne,2026-03-09,46
+Nashik,Viral hepatitis,water-borne,2026-03-09,1
+Nashik,Zika,vector-borne,2026-03-09,0
+Palghar,Chikungunya,vector-borne,2026-03-09,21
+Palghar,Dengue,vector-borne,2026-03-09,9
+Palghar,Malaria,vector-borne,2026-03-09,19
+Palghar,Measles,air-borne,2026-03-09,4
+Parbhani,Acute diarrhoeal disease,water-borne,2026-03-09,28
+Parbhani,Acute gastroenteritis,water-borne,2026-03-09,166
+Parbhani,Chikungunya,vector-borne,2026-03-09,0
+Parbhani,Dengue,vector-borne,2026-03-09,20
+Pune,Acute diarrhoeal disease,water-borne,2026-03-09,180
+Pune,Chikungunya,vector-borne,2026-03-09,3
+Pune,Cholera,water-borne,2026-03-09,2
+Pune,Dengue,vector-borne,2026-03-09,4
+Pune,Enteric fever,water-borne,2026-03-09,33
+Pune,Measles,air-borne,2026-03-09,7
+Pune,Zika,vector-borne,2026-03-09,0
+Raigad,Acute diarrhoeal disease,water-borne,2026-03-09,50
+Raigad,Chikungunya,vector-borne,2026-03-09,3
+Raigad,Cholera,water-borne,2026-03-09,1
+Raigad,Dengue,vector-borne,2026-03-09,18
+Raigad,Hepatitis A,water-borne,2026-03-09,8
+Raigad,Hepatitis E,water-borne,2026-03-09,12
+Raigad,Malaria,vector-borne,2026-03-09,35
+Raigad,Measles,air-borne,2026-03-09,3
+Ratnagiri,Acute diarrhoeal disease,water-borne,2026-03-09,102
+Ratnagiri,Cholera,water-borne,2026-03-09,5
+Ratnagiri,Dengue,vector-borne,2026-03-09,2
+Ratnagiri,Dysentery,water-borne,2026-03-09,16
+Ratnagiri,Hepatitis A,water-borne,2026-03-09,11
+Ratnagiri,Measles,air-borne,2026-03-09,1
+Sangli,Acute diarrhoeal disease,water-borne,2026-03-09,104
+Sangli,Acute gastroenteritis,water-borne,2026-03-09,208
+Sangli,Chikungunya,vector-borne,2026-03-09,4
+Sangli,Cholera,water-borne,2026-03-09,2
+Sangli,Dengue,vector-borne,2026-03-09,25
+Sangli,Enteric fever,water-borne,2026-03-09,27
+Sangli,Hepatitis A,water-borne,2026-03-09,12
+Sangli,Malaria,vector-borne,2026-03-09,19
+Sangli,Mumps,air-borne,2026-03-09,2
+Sangli,Zika,vector-borne,2026-03-09,0
+Satara,Acute diarrhoeal disease,water-borne,2026-03-09,87
+Satara,Chikungunya,vector-borne,2026-03-09,1
+Satara,Dengue,vector-borne,2026-03-09,69
+Satara,Dysentery,water-borne,2026-03-09,62
+Satara,Measles,air-borne,2026-03-09,0
+Sindhudurg,Acute diarrhoeal disease,water-borne,2026-03-09,70
+Sindhudurg,Dengue,vector-borne,2026-03-09,17
+Sindhudurg,Hepatitis A,water-borne,2026-03-09,3
+Sindhudurg,Hepatitis E,water-borne,2026-03-09,1
+Sindhudurg,Kyasanur forest disease,vector-borne,2026-03-09,0
+Sindhudurg,Malaria,vector-borne,2026-03-09,17
+Sindhudurg,Measles,air-borne,2026-03-09,0
+Solapur,Acute diarrhoeal disease,water-borne,2026-03-09,86
+Solapur,Acute gastroenteritis,water-borne,2026-03-09,137
+Solapur,Cholera,water-borne,2026-03-09,1
+Solapur,Dengue,vector-borne,2026-03-09,24
+Solapur,Zika,vector-borne,2026-03-09,0
+Thane,Acute diarrhoeal disease,water-borne,2026-03-09,128
+Thane,Acute gastroenteritis,water-borne,2026-03-09,80
+Thane,Chikungunya,vector-borne,2026-03-09,27
+Thane,Cholera,water-borne,2026-03-09,3
+Thane,Dengue,vector-borne,2026-03-09,15
+Thane,Diarrhea,water-borne,2026-03-09,59
+Thane,Hepatitis E,water-borne,2026-03-09,2
+Thane,Japanese encephalitis,vector-borne,2026-03-09,0
+Thane,Jaundice,water-borne,2026-03-09,17
+Thane,Malaria,vector-borne,2026-03-09,27
+Thane,Measles,air-borne,2026-03-09,3
+Wardha,Acute diarrhoeal disease,water-borne,2026-03-09,26
+Wardha,Cholera,water-borne,2026-03-09,1
+Wardha,Dengue,vector-borne,2026-03-09,28
+Wardha,Japanese encephalitis,vector-borne,2026-03-09,0
+Wardha,Malaria,vector-borne,2026-03-09,2
+Wardha,Measles,air-borne,2026-03-09,1
+Washim,Acute gastroenteritis,water-borne,2026-03-09,48
+Washim,Chikungunya,vector-borne,2026-03-09,17
+Washim,Cholera,water-borne,2026-03-09,6
+Washim,Dengue,vector-borne,2026-03-09,13
+Washim,Measles,air-borne,2026-03-09,2
+Washim,Rubella,air-borne,2026-03-09,0
+Yavatmal,Acute diarrhoeal disease,water-borne,2026-03-09,53
+Yavatmal,Acute gastroenteritis,water-borne,2026-03-09,127
+Yavatmal,Chickenpox,air-borne,2026-03-09,18
+Yavatmal,Cholera,water-borne,2026-03-09,0
+Yavatmal,Dengue,vector-borne,2026-03-09,25
+Yavatmal,Malaria,vector-borne,2026-03-09,10
+Yavatmal,Measles,air-borne,2026-03-09,7

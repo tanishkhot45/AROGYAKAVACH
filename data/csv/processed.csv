@@ -1,0 +1,1023 @@
+report_year,report_week,district,disease,category,cases,source_pdf,uid
+2010,1,Dharashiv,Acute diarrhoeal disease,water-borne,55,1st_wk10.pdf,
+2010,2,Sangli,Acute diarrhoeal disease,water-borne,50,2nd_wk10.pdf,
+2010,4,Beed,Dengue,vector-borne,8,4th_wk10.pdf,
+2010,6,Ratnagiri,Acute diarrhoeal disease,water-borne,14,6th_wk10.pdf,
+2010,7,Dhule,Malaria,vector-borne,24,7th_wk10.pdf,
+2010,8,Ratnagiri,Dysentery,water-borne,79,8th_wk10.pdf,
+2010,10,Solapur,Cholera,water-borne,176,10th_wk10.pdf,
+2010,16,Beed,Acute diarrhoeal disease,water-borne,29,16th_wk10.pdf,
+2010,17,Ratnagiri,Acute diarrhoeal disease,water-borne,36,17th_wk10.pdf,
+2010,18,Akola,Acute diarrhoeal disease,water-borne,16,18th_wk10.pdf,
+2010,20,Nashik,Acute diarrhoeal disease,water-borne,102,20th_wk10.pdf,
+2010,23,Akola,Acute diarrhoeal disease,water-borne,15,23rd_wk10.pdf,
+2010,26,Jalna,Acute diarrhoeal disease,water-borne,47,26th_wk10.pdf,
+2010,38,Dhule,Acute diarrhoeal disease,water-borne,23,38th_wk10.pdf,
+2010,43,Dhule,Malaria,vector-borne,24,43rd_wk10.pdf,
+2010,48,Ratnagiri,Dengue,vector-borne,24,48th_wk10.pdf,
+2011,20,Nashik,Chikungunya,vector-borne,28,20th_wk11.pdf,
+2011,23,Nashik,Acute diarrhoeal disease,water-borne,126,23rd_wk11.pdf,
+2011,24,Ratnagiri,Acute diarrhoeal disease,water-borne,25,24th_wk11.pdf,
+2011,29,Raigad,Cholera,water-borne,67,29th_wk11.pdf,
+2011,31,Nashik,Dengue,vector-borne,2,31st_wk11.pdf,
+2011,33,Akola,Acute diarrhoeal disease,water-borne,17,33rd_wk11.pdf,
+2011,36,Jalna,Dengue,vector-borne,20,36th_wk11.pdf,
+2011,36,Nagpur,Fever with rash,air-borne,8,36th_wk15.pdf,
+2011,38,Kolhapur,Malaria,vector-borne,14,38th_wk15.pdf,
+2011,38,Nagpur,Scrub typhus,vector-borne,4,38th_wk15.pdf,
+2011,38,Nashik,Acute diarrhoeal disease,water-borne,31,38th_wk11.pdf,
+2011,38,Wardha,Malaria,vector-borne,23,38th_wk15.pdf,
+2011,40,Dharashiv,Chikungunya,vector-borne,26,40th_wk11.pdf,
+2011,42,Dharashiv,Acute diarrhoeal disease,water-borne,55,42nd_wk11.pdf,
+2011,46,Ahilyanagar,Dengue,vector-borne,10,46th_wk11.pdf,
+2011,47,Gadchiroli,Malaria,vector-borne,40,47th_wk11.pdf,
+2012,11,Beed,Acute diarrhoeal disease,water-borne,54,11th_wk12.pdf,
+2012,12,Amravati,Hepatitis E,water-borne,38,12th_wk12.pdf,
+2012,18,Yavatmal,Acute diarrhoeal disease,water-borne,11,18th_wk12.pdf,
+2012,20,Amravati,Acute diarrhoeal disease,water-borne,38,20th_wk12.pdf,
+2012,23,Amravati,Acute diarrhoeal disease,water-borne,26,23rd_wk12.pdf,
+2012,23,Jalgaon,Acute diarrhoeal disease,water-borne,43,23rd_wk12.pdf,
+2012,24,Raigad,Dengue,vector-borne,29,24th_wk12.pdf,
+2012,29,Akola,Cholera,water-borne,47,29th_wk12.pdf,
+2012,34,Nandurbar,Cholera,water-borne,18,34th_wk12.pdf,
+2012,35,Beed,Chikungunya,vector-borne,13,35th_wk12.pdf,
+2012,35,Gondia,Acute diarrhoeal disease,water-borne,172,35th_wk12.pdf,
+2012,38,Beed,Dengue,vector-borne,32,38th_wk12.pdf,
+2012,40,Chhatrapati Sambhajinagar,Measles,air-borne,17,40th_wk12.pdf,
+2012,42,Chhatrapati Sambhajinagar,Dengue,vector-borne,63,42nd_wk12.pdf,
+2012,45,Dhule,Dengue,vector-borne,23,45th_wk12.pdf,
+2012,49,Dharashiv,Acute diarrhoeal disease,water-borne,65,49th_wk12.pdf,
+2012,49,Jalgaon,Acute diarrhoeal disease,water-borne,15,49th_wk12.pdf,
+2012,50,Nashik,Dengue,vector-borne,22,50th_wk12.pdf,
+2013,2,Raigad,Acute diarrhoeal disease,water-borne,37,2nd_wk13.pdf,
+2013,7,Thane,Hepatitis E,water-borne,11,7th_wk13.pdf,
+2013,9,Nandurbar,Acute diarrhoeal disease,water-borne,40,9th week 13.pdf,
+2013,10,Kolhapur,Dengue,vector-borne,7,10th_wk13.pdf,
+2013,11,Dhule,Acute diarrhoeal disease,water-borne,23,11th_wk13.pdf,
+2013,13,Akola,Measles,air-borne,6,13th_wk13.pdf,
+2013,14,Beed,Dengue,vector-borne,8,14th_wk13.pdf,
+2013,15,Gadchiroli,Dengue,vector-borne,26,15th_wk13.pdf,
+2013,19,Nanded,Acute diarrhoeal disease,water-borne,64,19th_wk13.pdf,
+2013,21,Jalgaon,Acute diarrhoeal disease,water-borne,64,21st_wk13.pdf,
+2013,24,Dhule,Dengue,vector-borne,15,24th_wk13.pdf,
+2013,29,Dharashiv,Chikungunya,vector-borne,10,29th_wk13.pdf,
+2013,34,Gadchiroli,Dengue,vector-borne,26,34th_wk13.pdf,
+2013,35,Jalgaon,Dengue,vector-borne,33,35th_wk13.pdf,
+2013,39,Nashik,Dengue,vector-borne,10,39th_wk13.pdf,
+2013,40,Nashik,Dengue,vector-borne,14,40th_wk13.pdf,
+2013,42,Nandurbar,Acute diarrhoeal disease,water-borne,40,42nd_wk13.pdf,
+2013,44,Thane,Measles,air-borne,13,44th_wk13.pdf,
+2013,46,Nanded,Acute diarrhoeal disease,water-borne,64,46th_wk13.pdf,
+2013,50,Sangli,Cholera,water-borne,99,50th_wk13.pdf,
+2014,1,Beed,Dengue,vector-borne,11,1st_wk14.pdf,
+2014,2,Bhandara,Chickenpox,air-borne,14,2nd_wk14.pdf,
+2014,4,Bhandara,Chickenpox,air-borne,10,4th_wk14.pdf,
+2014,10,Parbhani,Acute diarrhoeal disease,water-borne,47,10th_wk14.pdf,
+2014,11,Raigad,Hepatitis E,water-borne,40,11th_wk14.pdf,
+2014,16,Dhule,Dengue,vector-borne,15,16th_wk14.pdf,
+2014,17,Dhule,Dengue,vector-borne,14,17th_wk14.pdf,
+2014,18,Gadchiroli,Malaria,vector-borne,10,18th_wk14.pdf,
+2014,19,Satara,Acute diarrhoeal disease,water-borne,40,19th_wk14.pdf,
+2014,20,Ahilyanagar,Dengue,vector-borne,20,20th_wk14.pdf,
+2014,22,Beed,Dengue,vector-borne,8,22nd_wk14.pdf,
+2014,23,Jalna,Dengue,vector-borne,28,23rd_wk14.pdf,
+2014,24,Nagpur,Acute diarrhoeal disease,water-borne,14,24th_wk14.pdf,
+2014,26,Chhatrapati Sambhajinagar,Acute diarrhoeal disease,water-borne,60,26th_wk14.pdf,
+2014,27,Chhatrapati Sambhajinagar,Acute diarrhoeal disease,water-borne,78,27th_wk14.pdf,
+2014,28,Dhule,Acute diarrhoeal disease,water-borne,14,28th_wk14.pdf,
+2014,29,Beed,Dengue,vector-borne,34,29th_wk14.pdf,
+2014,30,Dharashiv,Acute diarrhoeal disease,water-borne,37,30th_wk14.pdf,
+2014,32,Dharashiv,Dengue,vector-borne,10,32nd_wk14.pdf,
+2014,33,Amravati,Dengue,vector-borne,25,33rd_wk14.pdf,
+2014,33,Nashik,Dengue,vector-borne,10,33rd_wk14.pdf,
+2014,34,Jalgaon,Dengue,vector-borne,33,34th_wk14.pdf,
+2014,35,Ahilyanagar,Malaria,vector-borne,14,35th_wk14.pdf,
+2014,35,Nanded,Dengue,vector-borne,124,35th_wk14.pdf,
+2014,35,Nandurbar,Acute diarrhoeal disease,water-borne,43,35th_wk14.pdf,
+2014,35,Sangli,Acute diarrhoeal disease,water-borne,50,35th_wk14.pdf,
+2014,36,Akola,Dengue,vector-borne,12,36th_wk14.pdf,
+2014,36,Nashik,Dengue,vector-borne,10,36th_wk14.pdf,
+2014,36,Nashik,Malaria,vector-borne,10,36th_wk14.pdf,
+2014,36,Pune,Acute diarrhoeal disease,water-borne,10,36th_wk14.pdf,
+2014,37,Gadchiroli,Malaria,vector-borne,17,37th_wk14.pdf,
+2014,38,Washim,Dengue,vector-borne,28,38th_wk14.pdf,
+2014,39,Gadchiroli,Malaria,vector-borne,10,39th_wk14.pdf,
+2014,40,Amravati,Dengue,vector-borne,12,40th_wk14.pdf,
+2014,40,Jalgaon,Dengue,vector-borne,33,40th_wk14.pdf,
+2014,42,Ahilyanagar,Dengue,vector-borne,20,42nd_wk14.pdf,
+2014,42,Jalgaon,Acute diarrhoeal disease,water-borne,64,42nd_wk14.pdf,
+2014,44,Amravati,Acute diarrhoeal disease,water-borne,32,44th_wk14.pdf,
+2014,47,Ahilyanagar,Dengue,vector-borne,20,47th_wk14.pdf,
+2014,49,Nandurbar,Measles,air-borne,15,49th_wk14.pdf,
+2014,50,Beed,Acute diarrhoeal disease,water-borne,29,50th_wk14.pdf,
+2015,2,Nashik,Viral hepatitis,water-borne,12,2nd_wk15.pdf,
+2015,3,Bhandara,Chickenpox,air-borne,12,3rd_wk15.pdf,
+2015,4,Jalgaon,Mumps,air-borne,15,4th_wk15.pdf,
+2015,5,Bhandara,Measles,air-borne,14,5th_wk15.pdf,
+2015,6,Bhandara,Chickenpox,air-borne,12,6th_wk15.pdf,
+2015,8,Thane,Acute diarrhoeal disease,water-borne,25,8th_wk15.pdf,
+2015,9,Bhandara,Chickenpox,air-borne,12,9th_wk15.pdf,
+2015,16,Nagpur,Hepatitis E,water-borne,16,16th_wk15.pdf,
+2015,17,Jalgaon,Acute diarrhoeal disease,water-borne,33,99171777471465983686.pdf,
+2015,17,Yavatmal,Acute diarrhoeal disease,water-borne,12,99171777471465983686.pdf,
+2015,18,Gadchiroli,Dengue,vector-borne,26,18th_wk15.pdf,
+2015,18,Parbhani,Acute diarrhoeal disease,water-borne,25,72914162941466750136.pdf,
+2015,18,Wardha,Cholera,water-borne,24,72914162941466750136.pdf,
+2015,19,Chandrapur,Acute diarrhoeal disease,water-borne,21,19th_wk15.pdf,
+2015,19,Nagpur,Acute diarrhoeal disease,water-borne,55,95133348011466750283.pdf,
+2015,19,Parbhani,Acute diarrhoeal disease,water-borne,127,95133348011466750283.pdf,
+2015,20,Akola,Cholera,water-borne,21,2958396131466750320.pdf,
+2015,20,Dhule,Acute diarrhoeal disease,water-borne,23,2958396131466750320.pdf,
+2015,20,Sindhudurg,Acute diarrhoeal disease,water-borne,49,2958396131466750320.pdf,
+2015,23,Ahilyanagar,Acute diarrhoeal disease,water-borne,15,23rd_wk15.pdf,
+2015,26,Dhule,Acute diarrhoeal disease,water-borne,13,26th_wk15.pdf,
+2015,26,Jalgaon,Acute diarrhoeal disease,water-borne,64,26th_wk15.pdf,
+2015,27,Amravati,Acute diarrhoeal disease,water-borne,56,27th_wk15.pdf,
+2015,29,Gadchiroli,Malaria,vector-borne,37,29th_wk15.pdf,
+2015,29,Jalgaon,Acute diarrhoeal disease,water-borne,107,29th_wk15.pdf,
+2015,30,Gadchiroli,Malaria,vector-borne,41,30th_wk15.pdf,
+2015,33,Nashik,Dengue,vector-borne,10,33rd_wk15.pdf,
+2015,39,Beed,Acute diarrhoeal disease,water-borne,22,39th_wk15.pdf,
+2015,39,Bhandara,Acute diarrhoeal disease,water-borne,24,39th_wk15.pdf,
+2015,39,Thane,Acute diarrhoeal disease,water-borne,27,39th_wk15.pdf,
+2015,40,Jalgaon,Acute diarrhoeal disease,water-borne,100,40th_wk15.pdf,
+2015,42,Nashik,Dengue,vector-borne,18,42nd_wk15.pdf,
+2015,42,Thane,Diarrhea,water-borne,33,42nd_wk15.pdf,
+2015,47,Gadchiroli,Malaria,vector-borne,15,47th_wk15.pdf,
+2015,47,Gadchiroli,Malaria,vector-borne,30,47th_wk15.pdf,
+2015,48,Kolhapur,Malaria,vector-borne,11,48th_wk15.pdf,
+2015,50,Gadchiroli,Malaria,vector-borne,195,50th_wk15.pdf,
+2015,50,Thane,Acute diarrhoeal disease,water-borne,14,50th_wk15.pdf,
+2015,51,Ahilyanagar,Acute diarrhoeal disease,water-borne,29,51st_wk15.pdf,
+2015,51,Ahilyanagar,Acute diarrhoeal disease,water-borne,104,51st_wk15.pdf,
+2015,51,Chhatrapati Sambhajinagar,Chikungunya,vector-borne,30,51st_wk15.pdf,
+2015,52,Kolhapur,Malaria,vector-borne,60,52nd_wk15.pdf,
+2015,52,Nashik,Dengue,vector-borne,10,52nd_wk15.pdf,
+2015,53,Gadchiroli,Dysentery,water-borne,102,53rd_wk15.pdf,
+2015,53,Kolhapur,Malaria,vector-borne,3,53rd_wk15.pdf,
+2015,53,Wardha,Japanese encephalitis,vector-borne,1,53rd_wk15.pdf,
+2016,2,Gadchiroli,Malaria,vector-borne,3,1489553831487223752.pdf,MH/GAD/2017/2/0038
+2016,3,Sindhudurg,Malaria,vector-borne,1,6867458831488435370.pdf,MH/SIN/2017/3/0063
+2016,4,Amravati,Measles,air-borne,8,15366628751488435411.pdf,MH/AMR/2017/4/0084
+2016,5,Ahilyanagar,Acute diarrhoeal disease,water-borne,41,44784235121465987444.pdf,
+2016,5,Nagpur,Mumps,air-borne,9,44784235121465987444.pdf,
+2016,6,Nagpur,Chickenpox,air-borne,13,77987201021489753657.pdf,MH/NAG/2017/6/0141
+2016,6,Yavatmal,Measles,air-borne,19,77987201021489753657.pdf,MH/YVT/2017/6/0142
+2016,7,Akola,Measles,air-borne,6,1544826741465987503.pdf,
+2016,7,Kolhapur,Chickenpox,air-borne,174,072017.pdf,MH/KOP/2017/7/0187
+2016,7,Kolhapur,Dengue,vector-borne,7,1544826741465987503.pdf,
+2016,7,Washim,Rubella,air-borne,7,1544826741465987503.pdf,
+2016,8,Thane,Jaundice,water-borne,16,68623290411465987526.pdf,
+2016,9,Ahilyanagar,Measles,air-borne,13,092017.pdf,
+2016,9,Akola,Measles,air-borne,15,092017.pdf,
+2016,9,Nagpur,Chickenpox,air-borne,13,9th_wk16.pdf,
+2016,10,Akola,Measles,air-borne,13,10th_wk16.pdf,MH/AKL/2016/10/0507
+2016,10,Yavatmal,Measles,air-borne,10,10th_wk16.pdf,MH/YVT/2016/10/0509
+2016,11,Ahilyanagar,Acute diarrhoeal disease,water-borne,42,11th_wk16.pdf,
+2016,11,Nagpur,Acute diarrhoeal disease,water-borne,55,11th_wk16.pdf,
+2016,12,Ahilyanagar,Rubella,air-borne,13,12th_wk16.pdf,
+2016,14,Ahilyanagar,Acute diarrhoeal disease,water-borne,71,rcntobrk.pdf,
+2016,14,Washim,Cholera,water-borne,31,rcntobrk.pdf,
+2016,15,Akola,Dysentery,water-borne,22,25655158311465983344.pdf,
+2016,21,Akola,Cholera,water-borne,21,24529831491467368085.pdf,
+2016,21,Amravati,Cholera,water-borne,62,24529831491467368085.pdf,
+2016,21,Chhatrapati Sambhajinagar,Acute diarrhoeal disease,water-borne,60,24529831491467368085.pdf,
+2016,21,Jalna,Acute diarrhoeal disease,water-borne,47,24529831491467368085.pdf,
+2016,21,Nagpur,Acute diarrhoeal disease,water-borne,194,24529831491467368085.pdf,
+2016,21,Nashik,Acute diarrhoeal disease,water-borne,409,24529831491467368085.pdf,
+2016,22,Ahilyanagar,Acute diarrhoeal disease,water-borne,42,73651938401470919034.pdf,
+2016,22,Beed,Enteric fever,water-borne,22,73651938401470919034.pdf,
+2016,22,Nagpur,Acute diarrhoeal disease,water-borne,55,73651938401470919034.pdf,
+2016,23,Dharashiv,Acute diarrhoeal disease,water-borne,55,1017710531470919065.pdf,
+2016,23,Jalgaon,Cholera,water-borne,53,1017710531470919065.pdf,
+2016,23,Nashik,Acute diarrhoeal disease,water-borne,158,1017710531470919065.pdf,
+2016,23,Yavatmal,Acute diarrhoeal disease,water-borne,10,1017710531470919065.pdf,
+2016,24,Beed,Acute diarrhoeal disease,water-borne,29,66156980721470919091.pdf,
+2016,24,Bhandara,Acute gastroenteritis,water-borne,28,66156980721470919091.pdf,
+2016,24,Gadchiroli,Acute diarrhoeal disease,water-borne,84,66156980721470919091.pdf,
+2016,24,Nashik,Dengue,vector-borne,10,66156980721470919091.pdf,
+2016,25,Amravati,Acute gastroenteritis,water-borne,26,72219634171470919115.pdf,
+2016,25,Jalna,Acute gastroenteritis,water-borne,15,72219634171470919115.pdf,
+2016,25,Kolhapur,Hepatitis E,water-borne,44,72219634171470919115.pdf,
+2016,25,Washim,Acute gastroenteritis,water-borne,25,72219634171470919115.pdf,
+2016,26,Jalna,Acute gastroenteritis,water-borne,17,33166532671470919134.pdf,
+2016,26,Jalna,Acute gastroenteritis,water-borne,13,33166532671470919134.pdf,
+2016,26,Thane,Acute gastroenteritis,water-borne,12,33166532671470919134.pdf,
+2016,26,Thane,Acute gastroenteritis,water-borne,23,33166532671470919134.pdf,
+2016,27,Chhatrapati Sambhajinagar,Acute diarrhoeal disease,water-borne,20,69286944421470997079.pdf,
+2016,27,Chhatrapati Sambhajinagar,Cholera,water-borne,9,69286944421470997079.pdf,
+2016,27,Thane,Acute diarrhoeal disease,water-borne,25,69286944421470997079.pdf,
+2016,28,Nagpur,Cholera,water-borne,858,81165166051471513557.pdf,
+2016,28,Nashik,Acute diarrhoeal disease,water-borne,25,81165166051471513557.pdf,
+2016,28,Nashik,Acute diarrhoeal disease,water-borne,62,81165166051471513557.pdf,
+2016,28,Yavatmal,Acute diarrhoeal disease,water-borne,28,81165166051471513557.pdf,
+2016,29,Bhandara,Acute diarrhoeal disease,water-borne,32,90160646731472206250.pdf,
+2016,29,Thane,Acute diarrhoeal disease,water-borne,11,90160646731472206250.pdf,
+2016,29,Thane,Acute diarrhoeal disease,water-borne,25,90160646731472206250.pdf,
+2016,29,Wardha,Acute diarrhoeal disease,water-borne,26,90160646731472206250.pdf,
+2016,30,Chandrapur,Acute gastroenteritis,water-borne,16,31559774371473068473.pdf,
+2016,30,Kolhapur,Malaria,vector-borne,18,31559774371473068473.pdf,
+2016,30,Nagpur,Acute gastroenteritis,water-borne,18,31559774371473068473.pdf,
+2016,31,Amravati,Acute diarrhoeal disease,water-borne,13,58448966271473417376.pdf,
+2016,31,Solapur,Acute diarrhoeal disease,water-borne,160,58448966271473417376.pdf,
+2016,31,Yavatmal,Acute diarrhoeal disease,water-borne,5,58448966271473417376.pdf,
+2016,32,Jalgaon,Cholera,water-borne,46,322016.pdf,
+2016,32,Kolhapur,Cholera,water-borne,50,322016.pdf,
+2016,33,Beed,Dengue,vector-borne,34,332016.pdf,
+2016,34,Amravati,Acute gastroenteritis,water-borne,41,342016.pdf,
+2016,35,Ahilyanagar,Chikungunya,vector-borne,12,352016.pdf,
+2016,36,Nagpur,Dengue,vector-borne,16,362016.pdf,
+2016,36,Washim,Chikungunya,vector-borne,9,362016.pdf,
+2016,37,Gadchiroli,Acute gastroenteritis,water-borne,65,372016.pdf,
+2016,37,Yavatmal,Acute diarrhoeal disease,water-borne,11,372016.pdf,
+2016,38,Beed,Chikungunya,vector-borne,5,382016.pdf,MH/BED/2016/38/2239
+2016,38,Jalgaon,Dengue,vector-borne,60,382016.pdf,MH/JGA/2016/38/2263
+2016,38,Nashik,Diarrhea,water-borne,22,382016.pdf,MH/NAS/2016/38/2265
+2016,40,Kolhapur,Acute diarrhoeal disease,water-borne,49,402016.pdf,MH/KOP/2016/40/232 9
+2016,41,Dhule,Acute diarrhoeal disease,water-borne,24,23840262681481707331.pdf,
+2016,42,Kolhapur,Acute diarrhoeal disease,water-borne,47,92950886071481706669.pdf,
+2016,43,Nagpur,Japanese encephalitis,vector-borne,19,432016.pdf,MH/NAG/2016/43/244 0
+2016,43,Washim,Measles,air-borne,6,432016.pdf,MH/WAS/2016/43/244 1
+2016,45,Washim,Measles,air-borne,7,452016.pdf,MH/WAS/2016/45/249 2
+2016,46,Beed,Dengue,vector-borne,8,462016.pdf,MH/BED/2016/46/2512
+2016,47,Ratnagiri,Dengue,vector-borne,40,472016.pdf,MH/RTG/2016/47/252 9
+2016,48,Nagpur,Dengue,vector-borne,6,482016.pdf,MH/NAG/2016/48/255 9
+2016,50,Akola,Chickenpox,air-borne,6,502016.pdf,
+2016,50,Dhule,Acute diarrhoeal disease,water-borne,25,502016.pdf,
+2016,52,Nagpur,Rubella,air-borne,15,89800766661487223603.pdf,MH/NAG/2016/52/267 1
+2017,1,Sindhudurg,Malaria,vector-borne,2,16761928221487223715.pdf,MH/SIN/2017/1/0011
+2017,1,Sindhudurg,Measles,air-borne,5,16761928221487223715.pdf,MH/SIN/2017/1/0012
+2017,10,Dharashiv,Chickenpox,air-borne,14,102017.pdf,MH/OSM/2017/10/0328
+2017,10,Nagpur,Rubella,air-borne,6,102017.pdf,MH/NAG/2017/10/0305
+2017,10,Washim,Measles,air-borne,7,102017.pdf,MH/WAS/2017/10/0306
+2017,11,Akola,Measles,air-borne,6,112017.pdf,MH/AKL/2017/11/0343
+2017,11,Dhule,Measles,air-borne,9,112017.pdf,MH/DHL/2017/11/0344
+2017,11,Nagpur,Chickenpox,air-borne,10,112017.pdf,MH/NAG/2017/11/0345
+2017,16,Chhatrapati Sambhajinagar,Chickenpox,air-borne,13,162017.pdf,MH/AGB/2017/16/0546
+2017,16,Nagpur,Chickenpox,air-borne,19,162017.pdf,MH/NAG/2017/16/0549
+2017,16,Wardha,Measles,air-borne,11,162017.pdf,MH/WDH/2017/16/0550
+2017,17,Chhatrapati Sambhajinagar,Measles,air-borne,5,172017.pdf,MH/AGB/2017/17/0591
+2017,21,Dharashiv,Measles,air-borne,6,212017.pdf,MH/OSM/2017/21/0782
+2017,22,Bhandara,Japanese encephalitis,vector-borne,35,76224562731499776651.pdf,MH/BNR/2017/22/0827
+2017,23,Sindhudurg,Malaria,vector-borne,93,232017.pdf,MH/SIN/2017/23/0847
+2017,24,Satara,Chikungunya,vector-borne,32,242017.pdf,MH/STA/2017/24/0890
+2017,25,Yavatmal,Dengue,vector-borne,35,252017.pdf,MH/YVT/2017/25/0933
+2017,27,Satara,Chikungunya,vector-borne,53,272017.pdf,MH/STA/2017/27/0977
+2017,27,Sindhudurg,Hepatitis E,water-borne,5,272017.pdf,MH/SIN/2017/27/0978
+2017,28,Raigad,Hepatitis A,water-borne,32,282017.pdf,MH/RGD/2017/28/1036
+2017,28,Ratnagiri,Cholera,water-borne,83,282017.pdf,MH/RTG/2017/28/1017
+2017,28,Washim,Dengue,vector-borne,25,282017.pdf,MH/WAS/2017/28/1037
+2017,29,Dharashiv,Cholera,water-borne,3,292017.pdf,MH/OSM/2017/29/1070
+2017,29,Thane,Dengue,vector-borne,56,292017.pdf,MH/THN/2017/29/1071
+2017,29,Thane,Dengue,vector-borne,89,292017.pdf,MH/THN/2017/29/1072
+2017,29,Thane,Dengue,vector-borne,86,292017.pdf,MH/THN/2017/29/1075
+2017,29,Thane,Malaria,vector-borne,15,292017.pdf,MH/THN/2017/29/1073
+2017,29,Thane,Malaria,vector-borne,26,292017.pdf,MH/THN/2017/29/1074
+2017,30,Gadchiroli,Malaria,vector-borne,127,302017.pdf,MH/GAD/2017/30/1100
+2017,32,Gadchiroli,Malaria,vector-borne,459,86234916091504855728.pdf,MH/GAD/2017/32/1169
+2017,33,Nagpur,Chikungunya,vector-borne,38,332017.pdf,MH/NAG/2017/33/1205
+2017,33,Satara,Dengue,vector-borne,26,332017.pdf,MH/STA/2017/33/1206
+2017,34,Jalna,Japanese encephalitis,vector-borne,27,342017.pdf,MH/JLN/2017/34/1247
+2017,34,Nagpur,Scrub typhus,vector-borne,2,342017.pdf,MH/NAG/2017/34/1240
+2017,36,Sangli,Dengue,vector-borne,11,362017.pdf,MH/SGL/2017/36/1314
+2017,37,Chhatrapati Sambhajinagar,Dengue,vector-borne,18,372017.pdf,MH/AGB/2017/37/1342
+2017,38,Dharashiv,Measles,air-borne,17,382017.pdf,MH/OSM/2017/38/1390
+2017,38,Nagpur,Dengue,vector-borne,5,382017.pdf,MH/NAG/2017/38/1373
+2017,38,Sindhudurg,Malaria,vector-borne,5,382017.pdf,MH/SIN/2017/38/1374
+2017,39,Beed,Dengue,vector-borne,8,392017.pdf,MH/BED/2017/39/1402
+2017,39,Chhatrapati Sambhajinagar,Dengue,vector-borne,11,392017.pdf,MH/AGB/2017/39/1401
+2017,39,Kolhapur,Acute diarrhoeal disease,water-borne,48,392017.pdf,MH/KOP/2017/39/1403
+2017,40,Nagpur,Dengue,vector-borne,529,402017.pdf,MH/NAG/2017/40/1424
+2017,40,Sangli,Dengue,vector-borne,58,402017.pdf,MH/SGL/2017/40/1434
+2017,41,Jalgaon,Dengue,vector-borne,8,412017.pdf,MH/JGA/2017/41/1472
+2017,41,Jalgaon,Measles,air-borne,15,412017.pdf,MH/JGA/2017/41/1453
+2017,42,Ahilyanagar,Malaria,vector-borne,3,422017.pdf,MH/AMN/2017/42/1483
+2017,42,Nashik,Dengue,vector-borne,7,422017.pdf,MH/NAS/2017/42/1494
+2017,42,Satara,Chikungunya,vector-borne,16,422017.pdf,MH/STA/2017/42/1496
+2017,43,Beed,Dengue,vector-borne,50,432017.pdf,MH/BED/2017/43/1515
+2017,44,Beed,Dengue,vector-borne,19,442017.pdf,MH/BED/2017/44/1537
+2017,44,Parbhani,Acute gastroenteritis,water-borne,9,442017.pdf,MH/PRB/2017/44/1541
+2017,44,Parbhani,Dengue,vector-borne,14,442017.pdf,MH/PRB/2017/44/1540
+2017,45,Palghar,Dengue,vector-borne,7,452017.pdf,MH/PLR/2017/45/1572
+2017,45,Satara,Dengue,vector-borne,23,452017.pdf,MH/STA/2017/45/1579
+2017,45,Satara,Dengue,vector-borne,28,452017.pdf,MH/STA/2017/45/1580
+2017,45,Thane,Dengue,vector-borne,24,452017.pdf,MH/THN/2017/45/1581
+2017,46,Ahilyanagar,Dengue,vector-borne,10,462017.pdf,MH/AMN/2017/46/1605
+2017,46,Beed,Chikungunya,vector-borne,21,462017.pdf,MH/BED/2017/46/1592
+2017,46,Chhatrapati Sambhajinagar,Cholera,water-borne,5825,462017.pdf,MH/AGB/2017/46/1591
+2017,46,Jalgaon,Chikungunya,vector-borne,40,462017.pdf,MH/JGA/2017/46/1593
+2017,47,Jalgaon,Dengue,vector-borne,49,472017.pdf,MH/JGA/2017/47/1628
+2017,47,Kolhapur,Dengue,vector-borne,1,472017.pdf,MH/KOP/2017/47/1616
+2017,47,Kolhapur,Dengue,vector-borne,4,472017.pdf,MH/KOP/2017/47/1629
+2017,47,Nashik,Chikungunya,vector-borne,60,472017.pdf,MH/NAS/2017/47/1631
+2017,47,Pune,Dengue,vector-borne,3,472017.pdf,MH/PNE/2017/47/1632
+2017,47,Pune,Dengue,vector-borne,1,472017.pdf,MH/PNE/2017/47/1633
+2017,47,Sangli,Chikungunya,vector-borne,17,472017.pdf,MH/SGL/2017/47/1634
+2017,47,Satara,Chikungunya,vector-borne,10,472017.pdf,MH/STA/2017/47/1636
+2017,47,Satara,Dengue,vector-borne,18,472017.pdf,MH/STA/2017/47/1635
+2017,47,Satara,Dengue,vector-borne,16,472017.pdf,MH/STA/2017/47/1637
+2017,48,Akola,Measles,air-borne,6,482017.pdf,MH/AKL/2017/48/1641
+2017,48,Beed,Dengue,vector-borne,8,482017.pdf,MH/BED/2017/48/1642
+2017,49,Palghar,Dengue,vector-borne,20,492017.pdf,MH/PLR/2017/49/1667
+2017,49,Ratnagiri,Measles,air-borne,17,492017.pdf,MH/RTG/2017/49/1658
+2017,50,Sangli,Chikungunya,vector-borne,10,502017.pdf,MH/SGL/2017/50/1674
+2017,50,Sangli,Chikungunya,vector-borne,28,502017.pdf,MH/SGL/2017/50/1677
+2017,50,Sangli,Chikungunya,vector-borne,15,502017.pdf,MH/SGL/2017/50/1678
+2017,51,Jalna,Chikungunya,vector-borne,11,512017.pdf,MH/JLN/2017/51/1694
+2017,51,Sindhudurg,Dengue,vector-borne,32,512017.pdf,MH/SIN/2017/51/1689
+2017,52,Thane,Japanese encephalitis,vector-borne,6,522017.pdf,MH/THN/2017/52/1711
+2018,1,Gadchiroli,Malaria,vector-borne,13,012018.pdf,MH/GAD/2018/01/0008
+2018,1,Nagpur,Measles,air-borne,5,012018.pdf,MH/NAG/2018/01/0009
+2018,1,Ratnagiri,Hepatitis A,water-borne,177,012018.pdf,MH/RTG/2018/01/0010
+2018,1,Satara,Chikungunya,vector-borne,9,012018.pdf,MH/STA/2018/01/0021
+2018,1,Satara,Dengue,vector-borne,40,012018.pdf,MH/STA/2018/01/0022
+2018,2,Dharashiv,Chikungunya,vector-borne,17,022018.pdf,MH/OSM/2018/02/0039
+2018,4,Jalna,Dengue,vector-borne,11,042018.pdf,MH/JLN/2018/04/0094
+2018,5,Bhandara,Chickenpox,air-borne,18,052018.pdf,MH/BNR/2018/05/0107
+2018,5,Yavatmal,Chickenpox,air-borne,4,052018.pdf,MH/YVT/2018/05/0125
+2018,8,Satara,Measles,air-borne,5,082018.pdf,MH/STA/2018/08/0220
+2018,9,Akola,Chickenpox,air-borne,27,092018.pdf,MH/AKL/2018/09/0256
+2018,10,Ahilyanagar,Measles,air-borne,11,102018.pdf,MH/AMN/2018/10/299
+2018,12,Palghar,Measles,air-borne,11,122018.pdf,MH/PLR/2018/12/348
+2018,12,Sindhudurg,Malaria,vector-borne,12,122018.pdf,MH/SIN/2018/12/364
+2018,13,Bhandara,Japanese encephalitis,vector-borne,9,132018.pdf,MH/BNR/2018/13/401
+2018,13,Jalna,Measles,air-borne,12,132018.pdf,MH/JLN/2018/13/404
+2018,13,Ratnagiri,Measles,air-borne,9,132018.pdf,MH/RTG/2018/13/387
+2018,14,Hingoli,Dengue,vector-borne,17,142018.pdf,MH/HIN/2018/14/445
+2018,17,Akola,Cholera,water-borne,13,172018.pdf,MH/AKL/2018/17/581
+2018,17,Jalna,Dengue,vector-borne,18,172018.pdf,MH/JLN/2018/17/582
+2018,18,Ahilyanagar,Dengue,vector-borne,16,182018.pdf,MH/AMN/2018/18/622
+2018,20,Dharashiv,Dengue,vector-borne,11,202018.pdf,MH/OSM/2018/20/665
+2018,20,Nashik,Chikungunya,vector-borne,66,202018.pdf,MH/NAS/2018/20/687
+2018,22,Jalgaon,Measles,air-borne,15,222018.pdf,MH/JGA/2018/22/745
+2018,22,Kolhapur,Chikungunya,vector-borne,9,222018.pdf,MH/KOP/2018/22/765
+2018,23,Satara,Chikungunya,vector-borne,9,93428147651531734413.pdf,MH/STA/2018/23/814
+2018,24,Akola,Measles,air-borne,6,242018.pdf,MH/AKL/2018/24/841
+2018,24,Gadchiroli,Malaria,vector-borne,39,242018.pdf,MH/GAD/2018/24/857
+2018,24,Sangli,Dengue,vector-borne,14,242018.pdf,MH/SGL/2018/24/856
+2018,25,Kolhapur,Dengue,vector-borne,5,252018.pdf,MH/KOP/2018/25/904
+2018,25,Solapur,Dengue,vector-borne,7,252018.pdf,MH/SHO/2018/25/905
+2018,26,Amravati,Cholera,water-borne,27,262018.pdf,MH/AMR/2018/26/925
+2018,26,Palghar,Dengue,vector-borne,10,262018.pdf,MH/PLR/2018/26/927
+2018,27,Kolhapur,Dengue,vector-borne,69,272018.pdf,MH/KOP/2018/27/978
+2018,27,Nashik,Chikungunya,vector-borne,137,272018.pdf,MH/NAS/2018/27/979
+2018,27,Pune,Chikungunya,vector-borne,18,272018.pdf,MH/PNE/2018/27/981
+2018,27,Sangli,Dengue,vector-borne,10,272018.pdf,MH/SGL/2018/27/982
+2018,27,Satara,Dengue,vector-borne,26,272018.pdf,MH/STA/2018/27/983
+2018,28,Kolhapur,HFMD,air-borne,11,282018.pdf,MH/KOP/2018/28/1004
+2018,29,Chandrapur,Dengue,vector-borne,35,292018.pdf,MH/CND/2018/29/1072
+2018,29,Chandrapur,Dengue,vector-borne,77,292018.pdf,MH/CND/2018/29/1075
+2018,29,Gadchiroli,Malaria,vector-borne,15,292018.pdf,MH/GAD/2018/29/1034
+2018,29,Nashik,Chikungunya,vector-borne,28,292018.pdf,MH/NAS/2018/29/1035
+2018,29,Sangli,Dengue,vector-borne,13,292018.pdf,MH/SGL/2018/29/1076
+2018,31,Nashik,Chikungunya,vector-borne,73,312018.pdf,MH/NAS/2018/31/1137
+2018,35,Chhatrapati Sambhajinagar,Dengue,vector-borne,4,352018.pdf,MH/AGB/2018/35/1204
+2018,35,Satara,Chikungunya,vector-borne,7,352018.pdf,MH/STA/2018/35/1206
+2018,35,Satara,Chikungunya,vector-borne,7,352018.pdf,MH/STA/2018/35/1221
+2018,35,Satara,Dengue,vector-borne,13,352018.pdf,MH/STA/2018/35/1222
+2018,40,Beed,Dengue,vector-borne,10,402018.pdf,MH/BED/2018/40/1329
+2018,40,Pune,Chikungunya,vector-borne,33,402018.pdf,MH/PNE/2018/40/1337
+2018,40,Pune,Dengue,vector-borne,51,402018.pdf,MH/PNE/2018/40/1338
+2018,40,Satara,Chikungunya,vector-borne,16,402018.pdf,MH/STA/2018/40/1340
+2018,40,Satara,Dengue,vector-borne,39,402018.pdf,MH/STA/2018/40/1341
+2018,40,Wardha,Dengue,vector-borne,62,402018.pdf,MH/WDH/2018/40/1343
+2018,41,Amravati,Measles,air-borne,13,412018.pdf,MH/AMR/2018/41/1357
+2018,44,Ahilyanagar,Rubella,air-borne,13,442018.pdf,MH/AMN/2018/44/1424
+2018,44,Amravati,Dengue,vector-borne,17,442018.pdf,MH/AMR/2018/44/1427
+2018,46,Beed,Dengue,vector-borne,12,462018.pdf,MH/BED/2018/46/1476
+2018,46,Nagpur,Dengue,vector-borne,15,462018.pdf,MH/NAG/2018/46/1490
+2018,46,Nagpur,Dengue,vector-borne,18,462018.pdf,MH/NAG/2018/46/1492
+2018,46,Nagpur,Dengue,vector-borne,52,462018.pdf,MH/NAG/2018/46/1493
+2018,46,Solapur,Dengue,vector-borne,16,462018.pdf,MH/SHO/2018/46/1495
+2018,46,Solapur,Dengue,vector-borne,7,462018.pdf,MH/SHO/2018/46/1496
+2018,46,Yavatmal,Measles,air-borne,6,462018.pdf,MH/YVT/2018/46/1497
+2018,47,Nashik,Chikungunya,vector-borne,30,472018.pdf,MH/NAS/2018/47/1515
+2018,47,Nashik,Dengue,vector-borne,14,472018.pdf,MH/NAS/2018/47/1514
+2018,48,Akola,Dengue,vector-borne,14,482018.pdf,MH/AKL/2018/48/1524
+2018,50,Akola,Dengue,vector-borne,8,502018.pdf,MH/AKL/2018/50/1580
+2018,50,Akola,Measles,air-borne,5,502018.pdf,MH/AKL/2018/50/1579
+2018,50,Satara,Chikungunya,vector-borne,7,502018.pdf,MH/STA/2018/50/1591
+2018,50,Satara,Dengue,vector-borne,64,502018.pdf,MH/STA/2018/50/1590
+2019,2,Gadchiroli,Malaria,vector-borne,3,022019.pdf,MH/GAD/2019/02/051
+2019,2,Nashik,Dengue,vector-borne,27,022019.pdf,MH/NAS/2019/02/064
+2019,3,Ahilyanagar,Chickenpox,water-borne,10,032019.pdf,MH/AMN/2019/03/0075
+2019,9,Kolhapur,Dengue,vector-borne,7,6589945201554276858.pdf,MH/KOP/2019/09/0220
+2019,18,Sindhudurg,Kyasanur forest disease,vector-borne,1,7712669551559045817.pdf,MH/SIN/2019/18/0464
+2019,22,Amravati,Chickenpox,air-borne,11,82640712431561703101.pdf,MH/AMR/2019/22/0575
+2019,23,Palghar,Dengue,vector-borne,8,85360816881563359501.pdf,MH/ERN/2019/23/0626
+2019,23,Raigad,Dengue,vector-borne,24,85360816881563359501.pdf,MH/ERN/2019/23/0627
+2019,24,Sangli,Chikungunya,vector-borne,10,7691730161563359625.pdf,MH/SGL/2019/24/0688
+2019,24,Sangli,Dengue,vector-borne,12,7691730161563359625.pdf,MH/SGL/2019/24/0687
+2019,24,Sangli,Malaria,vector-borne,7,7691730161563359625.pdf,MH/SGL/2019/24/0646
+2019,25,Kolhapur,Dengue,vector-borne,7,25756315101563359659.pdf,MH/KOP/2019/25/0725
+2019,25,Satara,Dengue,vector-borne,6,25756315101563359659.pdf,MH/STA/2019/25/0726
+2019,26,Raigad,Dengue,vector-borne,15,68942651301564989114.pdf,MH/RGD/2019/26/0747
+2019,27,Beed,Chickenpox,air-borne,4,35559832711564989155.pdf,MH/BED/2019/27/0811
+2019,29,Chandrapur,Malaria,vector-borne,23,45717479631566903502.pdf,MH/CND/2019/29/0875
+2019,29,Kolhapur,Scrub typhus,vector-borne,4,45717479631566903502.pdf,MH/KOP/2019/29/0909
+2019,29,Satara,Dengue,vector-borne,28,45717479631566903502.pdf,MH/STA/2019/29/0910
+2019,29,Thane,Dengue,vector-borne,14,45717479631566903502.pdf,MH/THN/2019/29/0911
+2019,34,Chandrapur,Malaria,vector-borne,83,29559503671572417006.pdf,MH/CND/2019/34/1075
+2019,34,Kolhapur,Dengue,vector-borne,2,29559503671572417006.pdf,MH/KOP/2019/34/1056
+2019,34,Satara,Dengue,vector-borne,15,29559503671572417006.pdf,MH/STA/2019/34/1076
+2019,35,Ahilyanagar,Dengue,vector-borne,40,77063109021572417436.pdf,MH/AMN/2019/35/1090
+2019,35,Ahilyanagar,Dengue,vector-borne,32,77063109021572417436.pdf,MH/AMN/2019/35/1124
+2019,35,Kolhapur,Dengue,vector-borne,5,77063109021572417436.pdf,MH/KOP/2019/35/1091
+2019,35,Kolhapur,Malaria,vector-borne,3,77063109021572417436.pdf,MH/KOP/2019/35/1092
+2019,35,Nagpur,Dengue,vector-borne,23,77063109021572417436.pdf,MH/NAG/2019/35/1093
+2019,35,Palghar,Dengue,vector-borne,143,77063109021572417436.pdf,MH/PLR/2019/35/1125
+2019,35,Wardha,Dengue,vector-borne,13,77063109021572417436.pdf,MH/WDH/2019/35/1094
+2019,36,Amravati,Scrub typhus,vector-borne,1,82656745161572606554.pdf,MH/AMR/2019/36/1160
+2019,36,Satara,Dengue,vector-borne,6,82656745161572606554.pdf,MH/STA/2019/36/1162
+2019,36,Thane,Dengue,vector-borne,61,82656745161572606554.pdf,MH/THN/2019/36/1163
+2019,36,Thane,Dengue,vector-borne,4,82656745161572606554.pdf,MH/THN/2019/36/1164
+2019,36,Thane,Malaria,vector-borne,7,82656745161572606554.pdf,MH/THN/2019/36/1165
+2019,37,Chhatrapati Sambhajinagar,Dengue,vector-borne,53,70521842991573621699.pdf,MH/AGB/2019/37/1194
+2019,37,Parbhani,Dengue,vector-borne,32,70521842991573621699.pdf,MH/PRB/2019/37/1180
+2019,37,Thane,Dengue,vector-borne,6,70521842991573621699.pdf,MH/THN/2019/37/1195
+2019,38,Chhatrapati Sambhajinagar,Dengue,vector-borne,67,84412656471574839783.pdf,MH/AGB/2019/38/1224
+2019,38,Jalna,Dengue,vector-borne,9,84412656471574839783.pdf,MH/JLN/2019/38/1225
+2019,38,Satara,Dengue,vector-borne,26,84412656471574839783.pdf,MH/STA/2019/38/1226
+2019,39,Ahilyanagar,Dengue,vector-borne,20,75110479251574835379.pdf,MH/AMN/2019/39/1249
+2019,39,Kolhapur,Dengue,vector-borne,6,75110479251574835379.pdf,MH/KOP/2019/39/1250
+2019,39,Kolhapur,Hepatitis A,water-borne,10,75110479251574835379.pdf,MH/KOP/2019/39/1251
+2019,39,Nandurbar,Dengue,vector-borne,26,75110479251574835379.pdf,MH/NDB/2019/39/1252
+2019,39,Pune,Dengue,vector-borne,44,75110479251574835379.pdf,MH/PNE/2019/39/1269
+2019,40,Jalgaon,Dengue,vector-borne,42,17724297961576151118.pdf,MH/JGA/2019/40/1282
+2019,40,Nandurbar,Dengue,vector-borne,26,17724297961576151118.pdf,MH/NDB/2019/40/1283
+2019,40,Pune,Dengue,vector-borne,82,17724297961576151118.pdf,MH/PNE/2019/40/1303
+2019,41,Pune,Dengue,vector-borne,2,81692474481576480348.pdf,MH/PNE/2019/41/1325
+2019,41,Sangli,Dengue,vector-borne,33,81692474481576480348.pdf,MH/SGL/2019/41/1326
+2019,42,Ahilyanagar,Dengue,vector-borne,27,95714695921576827903.pdf,MH/AMN/2019/42/1347
+2019,42,Gadchiroli,Japanese encephalitis,vector-borne,1,95714695921576827903.pdf,MH/GAD/2019/42/1372
+2019,42,Latur,Dengue,vector-borne,28,95714695921576827903.pdf,MH/LTR/2019/42/1374
+2019,42,Latur,Dengue,vector-borne,9,95714695921576827903.pdf,MH/LTR/2019/42/1375
+2019,43,Jalgaon,Dengue,vector-borne,26,5840814251577708329.pdf,MH/JGA/2019/43/1423
+2019,43,Nashik,Cholera,water-borne,289,5840814251577708329.pdf,MH/NAS/2019/43/1425
+2019,43,Sangli,Cholera,water-borne,111,5840814251577708329.pdf,MH/SGL/2019/43/1398
+2019,43,Solapur,Dengue,vector-borne,10,5840814251577708329.pdf,MH/SHO/2019/43/1426
+2019,44,Buldhana,Dengue,vector-borne,98,4836479471577875954.pdf,MH/BUL/2019/44/1441
+2019,44,Thane,Dengue,vector-borne,25,4836479471577875954.pdf,MH/THN/2019/44/1458
+2019,45,Sangli,Cholera,water-borne,112,57227886241578632023.pdf,MH/SGL/2019/45/1498
+2019,45,Solapur,Dengue,vector-borne,11,57227886241578632023.pdf,MH/SHO/2019/45/1500
+2019,46,Jalgaon,Dengue,vector-borne,8,90035950711578899621.pdf,MH/JGA/2019/46/1530
+2019,46,Kolhapur,Dengue,vector-borne,7,90035950711578899621.pdf,MH/KOP/2019/46/1531
+2019,47,Beed,Dengue,vector-borne,16,2211220741579085810.pdf,MH/BED/2019/47/1563
+2019,48,Kolhapur,Chikungunya,vector-borne,8,73655817411579588506.pdf,MH/KOP/2019/48/1575
+2019,49,Palghar,Dengue,vector-borne,16,87432761971580215568.pdf,MH/PLR/2019/49/1622
+2019,49,Raigad,Chikungunya,vector-borne,142,87432761971580215568.pdf,MH/RGD/2019/49/1623
+2019,51,Akola,Mumps,air-borne,26,16441864901581914600.pdf,MH/AKL/2019/51/1648
+2019,51,Chandrapur,Dengue,vector-borne,34,16441864901581914600.pdf,MH/CND/2019/51/1666
+2019,51,Chandrapur,Malaria,vector-borne,10,16441864901581914600.pdf,MH/CND/2019/51/1665
+2019,51,Kolhapur,Chikungunya,vector-borne,7,16441864901581914600.pdf,MH/KOP/2019/51/1667
+2020,3,Kolhapur,Chikungunya,vector-borne,11,39159205151584345522.pdf,MH/KOP/2020/03/0037
+2020,4,Chandrapur,Malaria,vector-borne,23,76464278111586340109.pdf,MH/CND/2020/04/0072
+2020,4,Kolhapur,Dengue,vector-borne,2,76464278111586340109.pdf,MH/KOP/2020/04/0054
+2020,5,Kolhapur,Chikungunya,vector-borne,2,91997163121586426717.pdf,MH/KOP/2020/05/0084
+2020,5,Satara,Dengue,vector-borne,6,91997163121586426717.pdf,MH/STA/2020/05/0098
+2020,5,Thane,Dengue,vector-borne,6,91997163121586426717.pdf,MH/THN/2020/05/0099
+2020,7,Bhandara,Chickenpox,air-borne,10,55963304211589526100.pdf,MH/BNR/2020/07/0145
+2020,7,Bhandara,Chickenpox,air-borne,6,55963304211589526100.pdf,MH/BNR/2020/07/0146
+2020,7,Raigad,Measles,air-borne,20,55963304211589526100.pdf,MH/RGD/2020/07/0149
+2020,10,Bhandara,Mumps,air-borne,28,34059301592392433.pdf,MH/BNR/2020/10/0242
+2020,11,Latur,Chickenpox,air-borne,7,63008264611592915163.pdf,MH/LTR/2020/11/0259
+2020,14,Akola,Chickenpox,air-borne,10,75910552131595312482.pdf,MH/AKL/2020/14/257
+2020,17,Kolhapur,Dengue,vector-borne,4,49994483731596602292.pdf,MH/KOP/2020/17/279
+2020,18,Chandrapur,Malaria,vector-borne,35,5964152161596712701.pdf,MH/CND/2020/18/298
+2020,21,Amravati,Dengue,vector-borne,10,21st wk 2020.pdf,MH/AMR/2020/21/321
+2020,21,Chandrapur,Dengue,vector-borne,54,21st wk 2020.pdf,MH/CND/2020/21/326
+2020,21,Kolhapur,Chikungunya,vector-borne,17,21st wk 2020.pdf,MH/KOP/2020/21/322
+2020,22,Chandrapur,Dengue,vector-borne,5,12542165061598342727.pdf,MH/CND/2020/22/329
+2020,22,Washim,Dengue,vector-borne,6,12542165061598342727.pdf,MH/WAS/2020/22/330
+2020,23,Kolhapur,Cholera,water-borne,199,26841813001598859859.pdf,MH/KOP/2020/23/336
+2020,25,Chandrapur,Hepatitis A,water-borne,28,72315328771599117641.pdf,MH/CND/2020/25/351
+2020,26,Kolhapur,Acute diarrhoeal disease,water-borne,39,82652121441599205047.pdf,MH/KOP/2020/26/355
+2020,27,Jalgaon,Acute diarrhoeal disease,water-borne,74,76245669481599205071.pdf,MH/JGA/2020/27/361
+2020,29,Ahilyanagar,Acute diarrhoeal disease,water-borne,42,75493226621600316927.pdf,MH/AMN/2020/29/376
+2020,29,Ahilyanagar,Japanese encephalitis,vector-borne,1,75493226621600316927.pdf,MH/AMN/2020/29/374
+2020,29,Ahilyanagar,Japanese encephalitis,vector-borne,1,75493226621600316927.pdf,MH/AMN/2020/29/375
+2020,31,Gadchiroli,Malaria,vector-borne,3,81792301181601365912.pdf,MH/GAD/2020/31/397
+2020,31,Gadchiroli,Malaria,vector-borne,2,81792301181601365912.pdf,MH/GAD/2020/31/398
+2020,31,Gadchiroli,Malaria,vector-borne,5,81792301181601365912.pdf,MH/GAD/2020/31/399
+2020,40,Amravati,Dengue,vector-borne,5,35786420331606195227.pdf,MH/AMR/2020/40/441
+2020,44,Chandrapur,Malaria,vector-borne,8,90708520581607945512.pdf,MH/CND/2020/44/456
+2020,45,Kolhapur,Chikungunya,vector-borne,11,57192284951607940109.pdf,MH/KOP/2020/45/465
+2020,46,Ahilyanagar,Chikungunya,vector-borne,40,52195839271608540270.pdf,MH/AMN/2020/46/474
+2020,46,Ahilyanagar,Chikungunya,vector-borne,25,52195839271608540270.pdf,MH/AMN/2020/46/475
+2020,48,Ratnagiri,Cholera,water-borne,65,14887303501610440276.pdf,MH/RTG/2020/48/486
+2020,49,Pune,Dengue,vector-borne,5,8181197221610615473.pdf,MH/PNE/2020/49/502
+2020,49,Satara,Chikungunya,vector-borne,7,8181197221610615473.pdf,MH/STA/2020/49/500
+2020,49,Satara,Dengue,vector-borne,27,8181197221610615473.pdf,MH/STA/2020/49/503
+2020,50,Nashik,Chikungunya,vector-borne,8,90829141301611039090.pdf,MH/NAS/2020/50/504
+2020,52,Ahilyanagar,Chikungunya,vector-borne,14,21592462931612246615.pdf,MH/AMN/2020/52/518
+2020,52,Nashik,Chikungunya,vector-borne,9,21592462931612246615.pdf,MH/NAS/2020/52/519
+2021,2,Satara,Dengue,vector-borne,8,65498445311614162134.pdf,MH/STA/2021/02/0012
+2021,3,Gadchiroli,Malaria,vector-borne,2,74204773541614676896.pdf,MH/GAD/2021/03/0022
+2021,4,Gadchiroli,Malaria,vector-borne,10,4803207561615807414.pdf,MH/GAD/2021/04/0029
+2021,5,Satara,Chikungunya,vector-borne,20,4197231291617278271.pdf,MH/STA/2021/05/0047
+2021,5,Satara,Dysentery,water-borne,35,4197231291617278271.pdf,MH/STA/2021/05/0057
+2021,5,Satara,Dysentery,water-borne,44,4197231291617278271.pdf,MH/STA/2021/05/0058
+2021,5,Thane,Malaria,vector-borne,2,4197231291617278271.pdf,MH/THN/2021/05/0048
+2021,6,Satara,Chikungunya,vector-borne,19,63739555761617691316.pdf,MH/STA/2021/06/0066
+2021,6,Thane,Chikungunya,vector-borne,2,63739555761617691316.pdf,MH/THN/2021/06/0067
+2021,7,Satara,Dengue,vector-borne,19,40381941051618291545.pdf,MH/STA/2021/07/0084
+2021,10,Kolhapur,Chikungunya,vector-borne,6,30875961491622115622.pdf,MH/KOP/2021/10/0118
+2021,16,Satara,Dengue,vector-borne,7,50964838001625218861.pdf,MH/STA/2021/16/0172
+2021,20,Nashik,Chikungunya,vector-borne,6,77905767661628494849.pdf,MH/NAS/2021/20/0188
+2021,22,Bhandara,Acute diarrhoeal disease,water-borne,108,10751456901629710010.pdf,MH/BNR/2021/22/0206
+2021,22,Pune,Chikungunya,vector-borne,6,10751456901629710010.pdf,MH/PNE/2021/22/0207
+2021,23,Dharashiv,Dengue,vector-borne,7,71666443691631189657.pdf,MH/OSM/2021/23/0214
+2021,25,Nandurbar,Acute diarrhoeal disease,water-borne,36,25286157331631579632.pdf,MH/NDB/2021/25/0235
+2021,25,Sindhudurg,Dengue,vector-borne,21,25286157331631579632.pdf,MH/SIN/2021/25/0236
+2021,26,Pune,Dengue,vector-borne,6,12830469691632485260.pdf,MH/PNE/2021/26/0266
+2021,27,Ahilyanagar,Chikungunya,vector-borne,11,93858438291632994388.pdf,MH/PLK/2021/27/0277
+2021,27,Amravati,Dengue,vector-borne,3,93858438291632994388.pdf,MH/PLK/2021/27/0278
+2021,27,Satara,Dengue,vector-borne,25,93858438291632994388.pdf,MH/PLK/2021/27/0282
+2021,28,Akola,Malaria,vector-borne,21,47953744461634031895.pdf,MH/AKL/2021/28/0295
+2021,28,Amravati,Dengue,vector-borne,5,47953744461634031895.pdf,MH/AMR/2021/28/0296
+2021,28,Amravati,Dysentery,water-borne,135,47953744461634031895.pdf,MH/AMR/2021/28/0297
+2021,28,Bhandara,Dengue,vector-borne,7,47953744461634031895.pdf,MH/BNR/2021/28/0299
+2021,28,Nagpur,Dengue,vector-borne,9,47953744461634031895.pdf,MH/NAG/2021/28/0308
+2021,28,Nagpur,Dengue,vector-borne,6,47953744461634031895.pdf,MH/NAG/2021/28/0309
+2021,29,Chandrapur,Dengue,vector-borne,58,42514392891634203744.pdf,MH/CND/2021/29/0324
+2021,29,Nagpur,Dengue,vector-borne,4,42514392891634203744.pdf,MH/NAG/2021/29/0325
+2021,30,Nagpur,Japanese encephalitis,vector-borne,1,53945400761634203762.pdf,MH/NAG/2021/30/0326
+2021,31,Amravati,Dengue,vector-borne,13,74168424891635145233.pdf,MH/AMR/2021/31/0357
+2021,31,Beed,Chikungunya,vector-borne,7,74168424891635145233.pdf,MH/BED/2021/31/0358
+2021,31,Chandrapur,Dengue,vector-borne,4,74168424891635145233.pdf,MH/CND/2021/31/0370
+2021,31,Chandrapur,Malaria,vector-borne,1,74168424891635145233.pdf,MH/CND/2021/31/0359
+2021,31,Gadchiroli,Malaria,vector-borne,28,74168424891635145233.pdf,MH/GAD/2021/31/0361
+2021,31,Kolhapur,Chikungunya,vector-borne,6,74168424891635145233.pdf,MH/KOP/2021/31/0362
+2021,31,Raigad,Dengue,vector-borne,18,74168424891635145233.pdf,MH/RGD/2021/31/0371
+2021,31,Satara,Chikungunya,vector-borne,20,74168424891635145233.pdf,MH/STA/2021/31/0372
+2021,31,Satara,Dengue,vector-borne,6,74168424891635145233.pdf,MH/STA/2021/31/0373
+2021,31,Wardha,Dengue,vector-borne,4,74168424891635145233.pdf,MH/WDH/2021/31/0374
+2021,32,Kolhapur,Acute diarrhoeal disease,water-borne,215,60690508801635853024.pdf,MH/KOP/2021/32/0377
+2021,32,Thane,Chikungunya,vector-borne,6,60690508801635853024.pdf,MH/THN/2021/32/0378
+2021,33,Chandrapur,Malaria,vector-borne,7,71204470671637580725.pdf,MH/CND/2021/33/0396
+2021,34,Amravati,Dengue,vector-borne,22,79268315211637580936.pdf,MH/AMR/2021/34/0414
+2021,34,Pune,Chikungunya,vector-borne,7,79268315211637580936.pdf,MH/PNE/2021/34/0415
+2021,34,Satara,Dengue,vector-borne,9,79268315211637580936.pdf,MH/STA/2021/34/0416
+2021,34,Satara,Dengue,vector-borne,6,79268315211637580936.pdf,MH/STA/2021/34/0417
+2021,35,Akola,Dengue,vector-borne,3,67323893291638446578.pdf,MH/AKL/2021/35/0422
+2021,36,Jalgaon,Dengue,vector-borne,54,7803926841638446619.pdf,MH/JGA/2021/36/0450
+2021,38,Gadchiroli,Scrub typhus,vector-borne,18,12628276741640844117.pdf,MH/GAD/2021/38/0481
+2021,39,Dharashiv,Chikungunya,vector-borne,15,78048457291640928892.pdf,MH/OSM/2021/39/0490
+2021,40,Beed,Dengue,vector-borne,4,90987822861641383977.pdf,MH/BED/2021/40/0519
+2021,40,Chandrapur,Dengue,vector-borne,7,90987822861641383977.pdf,MH/CND/2021/40/0534
+2021,40,Chandrapur,Malaria,vector-borne,9,90987822861641383977.pdf,MH/CND/2021/40/0535
+2021,40,Dharashiv,Chikungunya,vector-borne,5,90987822861641383977.pdf,MH/OSM/2021/40/0537
+2021,41,Beed,Dengue,vector-borne,6,11273184721641384072.pdf,MH/BED/2021/41/0549
+2021,42,Thane,Dengue,vector-borne,5,49912946621641555899.pdf,MH/THN/2021/42/0586
+2021,43,Gadchiroli,Malaria,vector-borne,10,12385261621641816039.pdf,MH/GAD/2021/43/0594
+2021,44,Gadchiroli,Malaria,vector-borne,1,4597934061641988247.pdf,MH/GAD/2021/44/0609
+2021,44,Thane,Dengue,vector-borne,1,4597934061641988247.pdf,MH/THN/2021/44/0610
+2021,45,Kolhapur,Cholera,water-borne,66,37476946981642145276.pdf,MH/KOP/2021/45/0623
+2021,45,Satara,Chikungunya,vector-borne,5,37476946981642145276.pdf,MH/STA/2021/45/0624
+2021,45,Satara,Dengue,vector-borne,14,37476946981642145276.pdf,MH/STA/2021/45/0637
+2021,46,Kolhapur,Cholera,water-borne,3,37155971601642407309.pdf,MH/KOP/2021/46/0647
+2021,46,Raigad,Malaria,vector-borne,19,37155971601642407309.pdf,MH/RGD/2021/46/0648
+2021,47,Nanded,Chikungunya,vector-borne,9,99070210871642594974.pdf,MH/NAN/2021/47/0666
+2021,47,Thane,Dengue,vector-borne,1,99070210871642594974.pdf,MH/THN/2021/47/0667
+2021,49,Akola,Chikungunya,vector-borne,10,63934703921642751757.pdf,MH/AKL/2021/49/0692
+2021,50,Kolhapur,Chikungunya,vector-borne,6,67474475281643264551.pdf,MH/KOP/2021/50/0705
+2021,50,Satara,Chikungunya,vector-borne,8,67474475281643264551.pdf,MH/STA/2021/50/0711
+2021,50,Satara,Dengue,vector-borne,10,67474475281643264551.pdf,MH/STA/2021/50/0710
+2021,50,Satara,Dengue,vector-borne,3,67474475281643264551.pdf,MH/STA/2021/50/0712
+2021,50,Satara,Dengue,vector-borne,5,67474475281643264551.pdf,MH/STA/2021/50/0713
+2022,2,Gadchiroli,Malaria,vector-borne,7,7295787021644495213.pdf,MH/GAD/2022/02/004
+2022,6,Gadchiroli,Malaria,vector-borne,1,50723308761648360611.pdf,MH/FAT/2022/06/026
+2022,11,Akola,Chickenpox,air-borne,5,17777132131651643473.pdf,MH/AKL/2022/11/078
+2022,11,Akola,Chikungunya,vector-borne,9,17777132131651643473.pdf,MH/AKL/2022/11/079
+2022,12,Raigad,Dengue,vector-borne,11,47642712261652251458.pdf,MH/RGD/2022/12/096
+2022,13,Akola,Chikungunya,vector-borne,3,27714369291652936295.pdf,MH/AKL/2022/13/113
+2022,19,Jalgaon,Dengue,vector-borne,9,25831535421658994103.pdf,MH/JGA/2022/19/248
+2022,19,Nashik,Chikungunya,vector-borne,6,25831535421658994103.pdf,MH/NAS/2022/19/249
+2022,20,Pune,Dengue,vector-borne,21,17460277921659429678.pdf,MH/PNE/2022/20/290
+2022,20,Pune,Dengue,vector-borne,12,17460277921659429678.pdf,MH/PNE/2022/20/302
+2022,21,Chandrapur,Malaria,vector-borne,13,48206806551659700618.pdf,MH/CND/2022/21/32
+2022,22,Gadchiroli,Malaria,vector-borne,196,69983681661495600.pdf,MH/GAD/2022/22/371
+2022,22,Gadchiroli,Malaria,vector-borne,114,69983681661495600.pdf,MH/GAD/2022/22/372
+2022,22,Satara,Chikungunya,vector-borne,5,69983681661495600.pdf,MH/STA/2022/22/375
+2022,23,Chandrapur,Malaria,vector-borne,3,1409615621661929367.pdf,MH/CND/2022/23/422
+2022,23,Jalgaon,Chikungunya,vector-borne,9,1409615621661929367.pdf,MH/JGA/2022/23/442
+2022,23,Satara,Chikungunya,vector-borne,5,1409615621661929367.pdf,MH/STA/2022/23/424
+2022,25,Pune,Dengue,vector-borne,7,10534460671663568873.pdf,MH/WAS/2022/25/478
+2022,26,Chandrapur,Malaria,vector-borne,2,97322230781664263759.pdf,MH/CND/2022/26/507
+2022,28,Chandrapur,Malaria,vector-borne,4,83459743991665057580.pdf,MH/CND/2022/28/547
+2022,28,Pune,Dengue,vector-borne,85,83459743991665057580.pdf,MH/PNE/2022/28/555
+2022,30,Washim,Cholera,water-borne,2,79431194251666685561.pdf,MH/WAS/2022/30/590
+2022,34,Nashik,Cholera,water-borne,10,73482782211667971918.pdf,MH/NAS/2022/34/669
+2022,35,Ahilyanagar,Chikungunya,vector-borne,6,94446467611669198494.pdf,MH/AMN/2022/35/708
+2022,35,Ahilyanagar,Dengue,vector-borne,3,94446467611669198494.pdf,MH/AMN/2022/35/707
+2022,38,Chandrapur,Dengue,vector-borne,17,78391596911671087086.pdf,MH/CND/2022/38/767
+2022,38,Chandrapur,Malaria,vector-borne,14,78391596911671087086.pdf,MH/CND/2022/38/768
+2022,39,Chhatrapati Sambhajinagar,Dengue,vector-borne,10,11984820951671616638.pdf,MH/AGB/2022/39/790
+2022,40,Pune,Dengue,vector-borne,20,42160159931671776389.pdf,MH/PNE/2022/40/803
+2022,41,Pune,Dengue,vector-borne,16,51700607561672038266.pdf,MH/PNE/2022/41/825
+2022,42,Pune,Dengue,vector-borne,10,1430537991672296570.pdf,MH/PNE/2022/42/834
+2022,42,Pune,Dengue,vector-borne,10,1430537991672296570.pdf,MH/PNE/2022/42/839
+2022,42,Sangli,Dengue,vector-borne,12,1430537991672296570.pdf,MH/SGL/2022/42/835
+2022,44,Pune,Dengue,vector-borne,7,8511094351673004835.pdf,MH/NGP/2022/44/866
+2022,44,Sangli,Dengue,vector-borne,36,8511094351673004835.pdf,MH/NGP/2022/44/867
+2022,46,Chhatrapati Sambhajinagar,Dengue,vector-borne,2,60008466191674111579.pdf,MH/AGB/2022/46/913
+2022,46,Dhule,Dengue,vector-borne,4,60008466191674111579.pdf,MH/DHL/2022/46/914
+2022,46,Kolhapur,Cholera,water-borne,233,60008466191674111579.pdf,MH/KOP/2022/46/915
+2022,46,Nashik,Cholera,water-borne,58,60008466191674111579.pdf,MH/NAS/2022/46/916
+2022,46,Nashik,Cholera,water-borne,52,60008466191674111579.pdf,MH/NAS/2022/46/917
+2022,46,Parbhani,Chikungunya,vector-borne,76,60008466191674111579.pdf,MH/PRB/2022/46/918
+2022,46,Thane,Dengue,vector-borne,1,60008466191674111579.pdf,MH/THN/2022/46/919
+2022,47,Kolhapur,Dengue,vector-borne,5,39954396811675250534.pdf,MH/KOP/2022/47/935
+2022,49,Kolhapur,Dengue,vector-borne,32,16602315821676010289.pdf,MH/KOP/2022/49/984
+2022,51,Chhatrapati Sambhajinagar,Measles,air-borne,6,37421173271676361045.pdf,MH/AGB/2022/51/1003
+2023,1,Thane,Dengue,vector-borne,3,56953886141677569586.pdf,MH/THN/2023/01/26
+2023,2,Nanded,Measles,air-borne,3,5598982481677737839.pdf,MH/NAN/2023/02/45
+2023,2,Nanded,Measles,air-borne,3,5598982481677737839.pdf,MH/NAN/2023/02/46
+2023,2,Nanded,Measles,air-borne,3,5598982481677737839.pdf,MH/NAN/2023/02/47
+2023,3,Chhatrapati Sambhajinagar,Measles,air-borne,14,59609550111678770735.pdf,MH/AGB/2023/03/65
+2023,5,Ahilyanagar,Dengue,vector-borne,2,4298719451679310429.pdf,MH/AMN/2023/05/116
+2023,5,Latur,Measles,air-borne,7,4298719451679310429.pdf,MH/LTR/2023/05/106
+2023,7,Dharashiv,Acute gastroenteritis,water-borne,12,92837229251680676582.pdf,MH/OSM/2023/07/147
+2023,7,Solapur,Acute gastroenteritis,water-borne,19,92837229251680676582.pdf,MH/SHO/2023/07/157
+2023,13,Pune,Measles,air-borne,5,19237813091684214647.pdf,MH/PNE/2023/13/262
+2023,13,Pune,Measles,air-borne,8,19237813091684214647.pdf,MH/PNE/2023/13/263
+2023,17,Nanded,Dengue,vector-borne,13,48854385361688450498.pdf,MH/NAN/2023/17/338
+2023,22,Gadchiroli,Malaria,vector-borne,19,9050581631691147080.pdf,MH/GAD/2023/22/461
+2023,22,Gadchiroli,Malaria,vector-borne,6,9050581631691147080.pdf,MH/GAD/2023/22/485
+2023,22,Gadchiroli,Malaria,vector-borne,21,9050581631691147080.pdf,MH/GAD/2023/22/486
+2023,24,Dharashiv,Dengue,vector-borne,10,23869537881693295660.pdf,MH/OSM/2023/24/530
+2023,24,Washim,Dengue,vector-borne,48,23869537881693295660.pdf,MH/WAS/2023/24/532
+2023,25,Dharashiv,Chikungunya,vector-borne,6,3934934481693388430.pdf,MH/OSM/2023/25/591
+2023,25,Gadchiroli,Malaria,vector-borne,37,3934934481693388430.pdf,MH/GAD/2023/25/587
+2023,25,Kolhapur,Dengue,vector-borne,79,3934934481693388430.pdf,MH/KOP/2023/25/589
+2023,25,Kolhapur,Dengue,vector-borne,34,3934934481693388430.pdf,MH/KOP/2023/25/590
+2023,25,Pune,Dengue,vector-borne,9,3934934481693388430.pdf,MH/PNE/2023/25/592
+2023,26,Chandrapur,Malaria,vector-borne,42,26th wk 2023-1.pdf,MH/CND/2023/26/648
+2023,26,Pune,Dengue,vector-borne,5,26th wk 2023-1.pdf,MH/PNE/2023/26/651
+2023,26,Satara,Dengue,vector-borne,5,26th wk 2023-1.pdf,MH/STA/2023/26/664
+2023,26,Thane,Dengue,vector-borne,8,26th wk 2023-1.pdf,MH/THN/2023/26/665
+2023,27,Akola,Dengue,vector-borne,17,27th wk 2023-1.pdf,MH/AKL/2023/27/695
+2023,27,Amravati,Malaria,vector-borne,46,27th wk 2023-1.pdf,MH/AMR/2023/27/696
+2023,27,Kolhapur,Dengue,vector-borne,44,27th wk 2023-1.pdf,MH/KOP/2023/27/697
+2023,27,Latur,Chikungunya,vector-borne,9,27th wk 2023-1.pdf,MH/LTR/2023/27/698
+2023,27,Satara,Chikungunya,vector-borne,6,27th wk 2023-1.pdf,MH/STA/2023/27/700
+2023,27,Satara,Dengue,vector-borne,5,27th wk 2023-1.pdf,MH/STA/2023/27/711
+2023,27,Sindhudurg,Dengue,vector-borne,10,27th wk 2023-1.pdf,MH/SIN/2023/27/712
+2023,28,Jalna,Dengue,vector-borne,10,28th wk 2023.pdf,MH/JLN/2023/28/741
+2023,28,Palghar,Dengue,vector-borne,12,28th wk 2023.pdf,MH/PLR/2023/28/742
+2023,29,Dharashiv,Dengue,vector-borne,7,29th wk 2023-1.pdf,MH/OSM/2023/29/796
+2023,29,Gadchiroli,Dengue,vector-borne,44,29th wk 2023-1.pdf,MH/GAD/2023/29/795
+2023,30,Bhandara,Dengue,vector-borne,30,30th wk 2023.pdf,MH/BNR/2023/30/835
+2023,30,Buldhana,Dengue,vector-borne,33,30th wk 2023.pdf,MH/BUL/2023/30/855
+2023,30,Dharashiv,Dengue,vector-borne,9,30th wk 2023.pdf,MH/OSM/2023/30/837
+2023,30,Nagpur,Dengue,vector-borne,91,30th wk 2023.pdf,MH/NAG/2023/30/836
+2023,30,Raigad,Dengue,vector-borne,11,30th wk 2023.pdf,MH/RGD/2023/30/838
+2023,31,Chhatrapati Sambhajinagar,Dengue,vector-borne,11,31st wk 2023.pdf,MH/AGB/2023/31/884
+2023,32,Gondia,Malaria,vector-borne,64,32nd wk 2023-1.pdf,MH/GOD/2023/32/945
+2023,32,Satara,Dengue,vector-borne,5,32nd wk 2023-1.pdf,MH/STA/2023/32/946
+2023,33,Beed,Dengue,vector-borne,17,33666127771697525084.pdf,MH/BED/2023/33/984
+2023,33,Beed,Dengue,vector-borne,7,33666127771697525084.pdf,MH/BED/2023/33/985
+2023,33,Gadchiroli,Dengue,vector-borne,34,33666127771697525084.pdf,MH/GAD/2023/33/987
+2023,33,Gadchiroli,Dengue,vector-borne,11,33666127771697525084.pdf,MH/GAD/2023/33/988
+2023,33,Gadchiroli,Malaria,vector-borne,2,33666127771697525084.pdf,MH/GAD/2023/33/986
+2023,33,Jalna,Dengue,vector-borne,5,33666127771697525084.pdf,MH/JLN/2023/33/989
+2023,34,Bhandara,Malaria,vector-borne,4,1036560991697701673.pdf,MH/BNR/2023/34/1040
+2023,34,Chhatrapati Sambhajinagar,Dengue,vector-borne,19,1036560991697701673.pdf,MH/AGB/2023/34/1038
+2023,34,Kolhapur,Dengue,vector-borne,43,1036560991697701673.pdf,MH/KOP/2023/34/1041
+2023,35,Dharashiv,Dengue,vector-borne,10,6334518031698667764.pdf,MH/OSM/2023/35/1116
+2023,35,Dharashiv,Dengue,vector-borne,18,6334518031698667764.pdf,MH/OSM/2023/35/1117
+2023,35,Gadchiroli,Dengue,vector-borne,19,6334518031698667764.pdf,MH/GAD/2023/35/1112
+2023,35,Kolhapur,Dengue,vector-borne,56,6334518031698667764.pdf,MH/KOP/2023/35/1114
+2023,35,Raigad,Dengue,vector-borne,10,6334518031698667764.pdf,MH/RGD/2023/35/1118
+2023,35,Sindhudurg,Malaria,vector-borne,15,6334518031698667764.pdf,MH/SIN/2023/35/1120
+2023,36,Kolhapur,Dengue,vector-borne,22,128660161699611747.pdf,MH/KOP/2023/36/1180
+2023,36,Kolhapur,Zika,vector-borne,3,128660161699611747.pdf,MH/KOP/2023/36/1179
+2023,36,Pune,Dengue,vector-borne,29,128660161699611747.pdf,MH/PNE/2023/36/1181
+2023,36,Yavatmal,Dengue,vector-borne,7,128660161699611747.pdf,MH/YVT/2023/36/1183
+2023,37,Amravati,Dengue,vector-borne,10,47975176701700192645.pdf,MH/AMR/2023/37/1229
+2023,37,Beed,Dengue,vector-borne,5,47975176701700192645.pdf,MH/BED/2023/37/1231
+2023,37,Beed,Dengue,vector-borne,5,57241746311700469239.pdf,MH/BED/2023/37/1285
+2023,37,Chandrapur,Dengue,vector-borne,9,57241746311700469239.pdf,MH/CND/2023/37/1286
+2023,37,Chandrapur,Malaria,vector-borne,14,57241746311700469239.pdf,MH/CND/2023/37/1287
+2023,37,Jalgaon,Dengue,vector-borne,40,57241746311700469239.pdf,MH/JGA/2023/37/1288
+2023,37,Jalna,Dengue,vector-borne,6,47975176701700192645.pdf,MH/JLN/2023/37/1255
+2023,37,Latur,Dengue,vector-borne,4,47975176701700192645.pdf,MH/LTR/2023/37/1232
+2023,37,Parbhani,Dengue,vector-borne,24,47975176701700192645.pdf,MH/PRB/2023/37/1233
+2023,37,Parbhani,Dengue,vector-borne,13,57241746311700469239.pdf,MH/PRB/2023/37/1289
+2023,37,Parbhani,Dengue,vector-borne,6,57241746311700469239.pdf,MH/PRB/2023/37/1290
+2023,37,Pune,Chikungunya,vector-borne,9,47975176701700192645.pdf,MH/PNE/2023/37/1234
+2023,37,Raigad,Dengue,vector-borne,3,47975176701700192645.pdf,MH/RGD/2023/37/1236
+2023,37,Raigad,Malaria,vector-borne,4,47975176701700192645.pdf,MH/RGD/2023/37/1235
+2023,37,Thane,Dengue,vector-borne,7,57241746311700469239.pdf,MH/THN/2023/37/1291
+2023,37,Thane,Dengue,vector-borne,5,57241746311700469239.pdf,MH/THN/2023/37/1292
+2023,37,Thane,Malaria,vector-borne,3,47975176701700192645.pdf,MH/THN/2023/37/1237
+2023,37,Washim,Dengue,vector-borne,9,47975176701700192645.pdf,MH/WAS/2023/37/1238
+2023,39,Beed,Dengue,vector-borne,10,39th wk 2023-1.pdf,MH/BED/2023/39/1337
+2023,39,Chhatrapati Sambhajinagar,Dengue,vector-borne,3,39th wk 2023-1.pdf,MH/AGB/2023/39/1336
+2023,39,Thane,Dengue,vector-borne,6,39th wk 2023-1.pdf,MH/THN/2023/39/1349
+2023,40,Amravati,Dengue,vector-borne,26,40th wk 2023.pdf,MH/AMR/2023/40/1380
+2023,40,Beed,Dengue,vector-borne,5,40th wk 2023.pdf,MH/BED/2023/40/1381
+2023,40,Nagpur,Dengue,vector-borne,89,40th wk 2023.pdf,MH/NAG/2023/40/1382
+2023,40,Raigad,Dengue,vector-borne,6,40th wk 2023.pdf,MH/RGD/2023/40/1383
+2023,40,Sangli,Zika,vector-borne,1,40th wk 2023.pdf,MH/SGL/2023/40/1384
+2023,40,Satara,Chikungunya,vector-borne,13,40th wk 2023.pdf,MH/STA/2023/40/1399
+2023,40,Thane,Dengue,vector-borne,3,40th wk 2023.pdf,MH/THN/2023/40/1385
+2023,40,Thane,Dengue,vector-borne,7,40th wk 2023.pdf,MH/THN/2023/40/1386
+2023,41,Buldhana,Dengue,vector-borne,24,41st wk 2023.pdf,MH/BUL/2023/41/1430
+2023,41,Chhatrapati Sambhajinagar,Dengue,vector-borne,4,41st wk 2023.pdf,MH/AGB/2023/41/1429
+2023,41,Pune,Dengue,vector-borne,59,41st wk 2023.pdf,MH/PNE/2023/41/1431
+2023,42,Beed,Dengue,vector-borne,5,17113853891702917780.pdf,MH/BED/2023/42/1477
+2023,42,Beed,Dengue,vector-borne,5,17113853891702917780.pdf,MH/BED/2023/42/1478
+2023,42,Chhatrapati Sambhajinagar,Dengue,vector-borne,5,17113853891702917780.pdf,MH/AGB/2023/42/1476
+2023,42,Dharashiv,Dengue,vector-borne,19,17113853891702917780.pdf,MH/OSM/2023/42/1486
+2023,42,Dhule,Dengue,vector-borne,12,17113853891702917780.pdf,MH/DHL/2023/42/1479
+2023,42,Dhule,Dengue,vector-borne,18,17113853891702917780.pdf,MH/DHL/2023/42/1480
+2023,42,Gadchiroli,Dengue,vector-borne,3,17113853891702917780.pdf,MH/GAD/2023/42/1481
+2023,42,Kolhapur,Chikungunya,vector-borne,145,17113853891702917780.pdf,MH/KOP/2023/42/1482
+2023,42,Nagpur,Dengue,vector-borne,9,17113853891702917780.pdf,MH/NAG/2023/42/1483
+2023,42,Nanded,Dengue,vector-borne,8,17113853891702917780.pdf,MH/NAN/2023/42/1484
+2023,42,Nanded,Dengue,vector-borne,6,17113853891702917780.pdf,MH/NAN/2023/42/1485
+2023,42,Nanded,Dengue,vector-borne,11,17113853891702917780.pdf,MH/NAN/2023/42/1507
+2023,42,Nanded,Dengue,vector-borne,12,17113853891702917780.pdf,MH/NAN/2023/42/1508
+2023,42,Thane,Dengue,vector-borne,1,17113853891702917780.pdf,MH/THN/2023/42/1488
+2023,42,Thane,Dengue,vector-borne,10,17113853891702917780.pdf,MH/THN/2023/42/1510
+2023,43,Akola,Dengue,vector-borne,8,43rd wk 2023.pdf,MH/AKL/2023/43/1533
+2023,43,Akola,Dengue,vector-borne,9,43rd wk 2023.pdf,MH/AKL/2023/43/1534
+2023,43,Amravati,Dengue,vector-borne,5,43rd wk 2023.pdf,MH/AMR/2023/43/1535
+2023,43,Beed,Dengue,vector-borne,3,43rd wk 2023.pdf,MH/BED/2023/43/1537
+2023,43,Beed,Dengue,vector-borne,1,43rd wk 2023.pdf,MH/BED/2023/43/1538
+2023,43,Chhatrapati Sambhajinagar,Dengue,vector-borne,17,43rd wk 2023.pdf,MH/AGB/2023/43/1536
+2023,43,Dharashiv,Dengue,vector-borne,6,43rd wk 2023.pdf,MH/OSM/2023/43/1540
+2023,43,Satara,Chikungunya,vector-borne,6,43rd wk 2023.pdf,MH/STA/2023/43/1541
+2023,44,Ahilyanagar,Dengue,vector-borne,26,11684956991704779982.pdf,MH/AMN/2023/44/1573
+2023,44,Kolhapur,Zika,vector-borne,5,11684956991704779982.pdf,MH/KOP/2023/44/1574
+2023,44,Nandurbar,Dengue,vector-borne,11,11684956991704779982.pdf,MH/NDB/2023/44/1575
+2023,44,Nandurbar,Dengue,vector-borne,16,11684956991704779982.pdf,MH/NDB/2023/44/1586
+2023,44,Thane,Dengue,vector-borne,3,11684956991704779982.pdf,MH/THN/2023/44/1576
+2023,45,Beed,Dengue,vector-borne,5,58496833651705032329.pdf,MH/BED/2023/45/1613
+2023,45,Beed,Dengue,vector-borne,5,58496833651705032329.pdf,MH/BED/2023/45/1630
+2023,45,Dharashiv,Dengue,vector-borne,31,58496833651705032329.pdf,MH/OSM/2023/45/1616
+2023,45,Nagpur,Scrub typhus,vector-borne,3,58496833651705032329.pdf,MH/NAG/2023/45/1614
+2023,45,Nanded,Dengue,vector-borne,10,58496833651705032329.pdf,MH/NAN/2023/45/1615
+2023,45,Nanded,Dengue,vector-borne,6,58496833651705032329.pdf,MH/NAN/2023/45/1631
+2023,45,Nanded,Dengue,vector-borne,12,58496833651705032329.pdf,MH/NAN/2023/45/1632
+2023,45,Sangli,Dengue,vector-borne,6,58496833651705032329.pdf,MH/SGL/2023/45/1617
+2023,45,Satara,Dengue,vector-borne,16,58496833651705032329.pdf,MH/STA/2023/45/1618
+2023,47,Nashik,Dengue,vector-borne,13,47th wk 2023-2.pdf,MH/NAS/2023/47/1700
+2023,47,Raigad,Malaria,vector-borne,3,47th wk 2023-2.pdf,MH/RGD/2023/47/1683
+2023,48,Gadchiroli,Malaria,vector-borne,4,48th wk 2023-1.pdf,MH/GAD/2023/48/1729
+2023,49,Gadchiroli,Malaria,vector-borne,10,49th wk 2023-1.pdf,MH/GAD/2023/49/1753
+2023,49,Nanded,Mumps,air-borne,7,49th wk 2023-1.pdf,MH/NAN/2023/49/1754
+2023,49,Pune,Dengue,vector-borne,7,49th wk 2023-1.pdf,MH/PNE/2023/49/1755
+2023,49,Pune,Dengue,vector-borne,7,49th wk 2023-1.pdf,MH/PNE/2023/49/1766
+2023,49,Thane,Dengue,vector-borne,8,49th wk 2023-1.pdf,MH/THN/2023/49/1756
+2023,50,Amravati,Malaria,vector-borne,17,50th wk 2023.pdf,MH/AMR/2023/50/1789
+2023,50,Gadchiroli,Malaria,vector-borne,6,50th wk 2023.pdf,MH/GAD/2023/50/1791
+2023,50,Nashik,Zika,vector-borne,1,50th wk 2023.pdf,MH/NAS/2023/50/1801
+2023,50,Palghar,Dengue,vector-borne,7,50th wk 2023.pdf,MH/PLR/2023/50/1792
+2023,51,Nashik,Chikungunya,vector-borne,8,51st wk 2023-1.pdf,MH/NAS/2023/51/1828
+2023,51,Raigad,Dengue,vector-borne,1,51st wk 2023-1.pdf,MH/RGD/2023/51/1829
+2023,51,Sangli,Mumps,air-borne,9,51st wk 2023-1.pdf,MH/SGL/2023/51/1830
+2023,51,Satara,Chikungunya,vector-borne,5,51st wk 2023-1.pdf,MH/STA/2023/51/1838
+2024,1,Gadchiroli,Malaria,vector-borne,191,1st wk 2024_rev-1.pdf,MH/GAD/2024/01/15
+2024,1,Gadchiroli,Malaria,vector-borne,385,1st wk 2024_rev-1.pdf,MH/GAD/2024/01/16
+2024,1,Gondia,Malaria,vector-borne,28,1st wk 2024_rev-1.pdf,MH/GOD/2024/01/17
+2024,1,Nagpur,Scrub typhus,vector-borne,9,1st wk 2024_rev-1.pdf,MH/NAG/2024/01/20
+2024,2,Kolhapur,Hepatitis A,water-borne,42,2nd wk 2024-1.pdf,MH/KOP/2024/02/45
+2024,3,Thane,Dengue,vector-borne,5,3rd wk 2024.pdf,MH/THN/2024/03/0568
+2024,3,Thane,Dengue,vector-borne,13,3rd wk 2024.pdf,MH/THN/2024/03/082
+2024,4,Buldhana,Mumps,air-borne,5,81470887121748948191.pdf,MH/BUL/2024/04/098
+2024,4,Palghar,Dengue,vector-borne,16,81470887121748948191.pdf,MH/PLR/2024/04/099
+2024,5,Kolhapur,Acute gastroenteritis,water-borne,110,5th wk 2024 (1).pdf,MH/KOP/2024/05/135
+2024,6,Dharashiv,Dengue,vector-borne,9,6th wk 2024.pdf,MH/OSM/2024/06/184
+2024,6,Parbhani,Acute gastroenteritis,water-borne,629,6th wk 2024.pdf,MH/PRB/2024/06/186
+2024,7,Dharashiv,Malaria,vector-borne,9,7th wk 2024.pdf,MH/OSM/2024/07/226
+2024,7,Raigad,Dengue,vector-borne,6,7th wk 2024.pdf,MH/RGD/2024/07/227
+2024,7,Thane,Malaria,vector-borne,5,7th wk 2024.pdf,MH/THN/2024/07/228
+2024,8,Yavatmal,Acute gastroenteritis,water-borne,23,8th wk 2024.pdf,MH/YVT/2024/08/264
+2024,10,Kolhapur,Hepatitis A,water-borne,22,10th wk 2024.pdf,MH/KOP/2024/10/362
+2024,11,Amravati,Malaria,vector-borne,64,11th wk 2024 (1).pdf,MH/AMR/2024/11/426
+2024,11,Dharashiv,Chikungunya,vector-borne,10,11th wk 2024 (1).pdf,MH/OSM/2024/11/435
+2024,11,Gadchiroli,Malaria,vector-borne,34,11th wk 2024 (1).pdf,MH/GAD/2024/11/428
+2024,11,Gadchiroli,Malaria,vector-borne,249,11th wk 2024 (1).pdf,MH/GAD/2024/11/429
+2024,11,Latur,Dengue,vector-borne,5,11th wk 2024 (1).pdf,MH/LTR/2024/11/432
+2024,12,Akola,Dengue,vector-borne,26,12th wk 2024.pdf,MH/AKL/2024/12/492
+2024,12,Akola,Hepatitis A,water-borne,96,13th wk 2024.pdf,MH/AKL/2024/12/539
+2024,12,Amravati,Dengue,vector-borne,64,12th wk 2024.pdf,MH/AMR/2024/12/493
+2024,12,Dharashiv,Dengue,vector-borne,6,12th wk 2024.pdf,MH/OSM/2024/12/494
+2024,12,Pune,Chikungunya,vector-borne,9,13th wk 2024.pdf,MH/PNE/2024/12/551
+2024,14,Raigad,Dengue,vector-borne,5,14th wk 2024.pdf,MH/RGD/2024/14/582
+2024,15,Chandrapur,Malaria,vector-borne,25,15th wk 2024.pdf,MH/CND/2024/15/635
+2024,15,Kolhapur,Chikungunya,vector-borne,6,15th wk 2024.pdf,MH/KOP/2024/15/638
+2024,15,Satara,Dengue,vector-borne,5,15th wk 2024.pdf,MH/STA/2024/15/656
+2024,15,Wardha,Dengue,vector-borne,36,15th wk 2024.pdf,MH/WDH/2024/15/642
+2024,16,Ahilyanagar,Scrub typhus,vector-borne,14,16th wk 2024 (1).pdf,MH/AMN/2024/16/691
+2024,16,Kolhapur,Hepatitis A,water-borne,12,16th wk 2024 (1).pdf,MH/KOP/2024/16/694
+2024,16,Kolhapur,Hepatitis A,water-borne,48,16th wk 2024 (1).pdf,MH/KOP/2024/16/695
+2024,16,Raigad,Hepatitis A,water-borne,11,16th wk 2024 (1).pdf,MH/RGD/2024/16/697
+2024,17,Chandrapur,Dengue,vector-borne,6,17th wk 2024.pdf,MH/CND/2024/17/664
+2024,17,Nagpur,Scrub typhus,vector-borne,12,17th wk 2024.pdf,MH/NGP/2024/17/766
+2024,17,Nanded,Dengue,vector-borne,6,17th wk 2024.pdf,MH/NDD/2024/17/767
+2024,17,Raigad,Dengue,vector-borne,8,17th wk 2024.pdf,MH/RGD/2024/17/768
+2024,17,Washim,Dengue,vector-borne,11,17th wk 2024.pdf,MH/WAS/2024/17/769
+2024,17,Yavatmal,Dengue,vector-borne,14,17th wk 2024.pdf,MH/YVT/2024/17/793
+2024,18,Akola,Dengue,vector-borne,22,18th wk 2024.pdf,MH/AKL/2024/18/836
+2024,18,Parbhani,Chikungunya,vector-borne,11,18th wk 2024.pdf,MH/PRB/2024/18/839
+2024,18,Satara,Dengue,vector-borne,10,18th wk 2024.pdf,MH/STA/2024/18/841
+2024,19,Ahilyanagar,Chikungunya,vector-borne,11,19th wk 2024(2).pdf,MH/AMN/2024/19/891
+2024,19,Wardha,Dengue,vector-borne,9,19th wk 2024(2).pdf,MH/WDH/2024/19/904
+2024,20,Nanded,Dengue,vector-borne,24,20th wk 2024.pdf,MH/NAN/2024/20/957
+2024,20,Nanded,Dengue,vector-borne,7,20th wk 2024.pdf,MH/NAN/2024/20/956
+2024,20,Satara,Dengue,vector-borne,16,20th wk 2024.pdf,MH/STA/2024/20/959
+2024,20,Washim,Dengue,vector-borne,6,20th wk 2024.pdf,MH/WAS/2024/20/960
+2024,21,Akola,Cholera,water-borne,65,21st wk 2024.pdf,MH/AKL/2024/21/1013
+2024,21,Jalgaon,Cholera,water-borne,89,21st wk 2024.pdf,MH/JGA/2024/21/1014
+2024,21,Kolhapur,Chikungunya,vector-borne,18,21st wk 2024.pdf,MH/KOP/2024/21/1034
+2024,21,Nagpur,Dengue,vector-borne,16,21st wk 2024.pdf,MH/NAG/2024/21/1015
+2024,21,Yavatmal,Chickenpox,air-borne,30,21st wk 2024.pdf,MH/YVT/2024/21/1017
+2024,22,Gadchiroli,Dengue,vector-borne,48,22nd wk 2024.pdf,MH/GAD/2024/22/1087
+2024,22,Nanded,Dengue,vector-borne,12,22nd wk 2024.pdf,MH/NAN/2024/22/1088
+2024,22,Pune,Cholera,water-borne,5,22nd wk 2024.pdf,MH/PNE/2024/22/1090
+2024,22,Pune,Dengue,vector-borne,7,22nd wk 2024.pdf,MH/PNE/2024/22/1089
+2024,23,Gadchiroli,Malaria,vector-borne,8,23rd wk 2024.pdf,MH/GAD/2024/23/1139
+2024,23,Kolhapur,Zika,vector-borne,1,23rd wk 2024.pdf,MH/KOP/2024/23/1140
+2024,23,Nagpur,Cholera,water-borne,5,23rd wk 2024.pdf,MH/NAG/2024/23/1141
+2024,23,Thane,Dengue,vector-borne,24,23rd wk 2024.pdf,MH/THN/2024/23/1142
+2024,24,Bhandara,Malaria,vector-borne,5,24th wk 2024.pdf,MH/BNR/2024/24/1214
+2024,24,Nagpur,Chikungunya,vector-borne,40,24th wk 2024.pdf,MH/NAG/2024/24/1216
+2024,24,Nanded,Dengue,vector-borne,13,24th wk 2024.pdf,MH/NAN/2024/24/1217
+2024,24,Palghar,Chikungunya,vector-borne,6,24th wk 2024.pdf,MH/PLR/2024/24/1218
+2024,24,Pune,Cholera,water-borne,81,24th wk 2024.pdf,MH/PNE/2024/24/1219
+2024,24,Sangli,Dengue,vector-borne,8,24th wk 2024.pdf,MH/SGL/2024/24/1220
+2024,25,Dharashiv,Dengue,vector-borne,14,25th wk 2024.pdf,MH/OSM/2024/25/1289
+2024,25,Kolhapur,Dengue,vector-borne,24,25th wk 2024.pdf,MH/KOP/2024/25/1287
+2024,25,Kolhapur,Hepatitis A,water-borne,35,25th wk 2024.pdf,MH/KOP/2024/25/1288
+2024,26,Gondia,Pertussis,air-borne,9,26th wk 2024.pdf,MH/GOD/2024/26/1336
+2024,26,Kolhapur,Chikungunya,vector-borne,7,26th wk 2024.pdf,MH/KOP/2024/26/1338
+2024,26,Kolhapur,Cholera,water-borne,7,26th wk 2024.pdf,MH/KOP/2024/26/1339
+2024,26,Kolhapur,Dengue,vector-borne,1,26th wk 2024.pdf,MH/KOP/2024/26/1340
+2024,26,Nashik,Dengue,vector-borne,5,26th wk 2024.pdf,MH/NAS/2024/26/1374
+2024,26,Pune,Chikungunya,vector-borne,12,26th wk 2024.pdf,MH/PNE/2024/26/1344
+2024,26,Pune,Dengue,vector-borne,5,26th wk 2024.pdf,MH/PNE/2024/26/1343
+2024,26,Pune,Enteric fever,water-borne,14,26th wk 2024.pdf,MH/PNE/2024/26/1375
+2024,26,Pune,Zika,vector-borne,8,26th wk 2024.pdf,MH/PNE/2024/26/1342
+2024,26,Raigad,Dengue,vector-borne,2,26th wk 2024.pdf,MH/RGD/2024/26/1345
+2024,26,Raigad,Dengue,vector-borne,84,26th wk 2024.pdf,MH/RGD/2024/26/1376
+2024,26,Sangli,Cholera,water-borne,50,26th wk 2024.pdf,MH/SGL/2024/26/1346
+2024,26,Satara,Dengue,vector-borne,7,26th wk 2024.pdf,MH/STA/2024/26/1347
+2024,26,Washim,Cholera,water-borne,25,26th wk 2024.pdf,MH/WAD/2024/26/1348
+2024,26,Yavatmal,Dengue,vector-borne,40,26th wk 2024.pdf,MH/YVT/2024/26/1349
+2024,27,Akola,Cholera,water-borne,18,27th wk 2024.pdf,MH/AKL/2024/27/1423
+2024,27,Chandrapur,Dengue,vector-borne,24,27th wk 2024.pdf,MH/CND/2024/27/1424
+2024,27,Pune,Zika,vector-borne,8,27th wk 2024.pdf,MH/PNE/2024/27/1426
+2024,27,Raigad,Dengue,vector-borne,13,27th wk 2024.pdf,MH/RIG/2024/27/1427
+2024,28,Gadchiroli,Malaria,vector-borne,3,28th wk 2024.pdf,MH/GAD/2024/28/1500
+2024,28,Latur,Dengue,vector-borne,7,28th wk 2024.pdf,MH/LAT/2024/28/1502
+2024,28,Latur,Hepatitis A,water-borne,9,28th wk 2024.pdf,MH/LAT/2024/28/1503
+2024,28,Pune,Zika,vector-borne,2,28th wk 2024.pdf,MH/PNE/2024/28/1504
+2024,28,Pune,Zika,vector-borne,3,28th wk 2024.pdf,MH/PNE/2024/28/1505
+2024,28,Pune,Zika,vector-borne,1,28th wk 2024.pdf,MH/PNE/2024/28/1547
+2024,28,Raigad,Dengue,vector-borne,1,28th wk 2024.pdf,MH/RIG/2024/28/1506
+2024,28,Thane,Dengue,vector-borne,2,28th wk 2024.pdf,MH/THN/2024/28/1508
+2024,28,Washim,Dengue,vector-borne,6,28th wk 2024.pdf,MH/WHI/2024/28/1509
+2024,28,Yavatmal,Cholera,water-borne,7,28th wk 2024.pdf,MH/YVT/2024/28/1511
+2024,28,Yavatmal,Cholera,water-borne,30,28th wk 2024.pdf,MH/YVT/2024/28/1512
+2024,29,Ahilyanagar,Zika,vector-borne,3,29th wk 2024.pdf,MH/AHM/2024/29/1604
+2024,29,Chandrapur,Malaria,vector-borne,30,29th wk 2024.pdf,MH/CDP/2024/29/1608
+2024,29,Kolhapur,Dysentery,water-borne,98,29th wk 2024.pdf,MH/KOP/2024/29/1610
+2024,29,Pune,Zika,vector-borne,11,29th wk 2024.pdf,MH/PNE/2024/29/1612
+2024,29,Pune,Zika,vector-borne,1,29th wk 2024.pdf,MH/PNE/2024/29/1613
+2024,29,Satara,Dengue,vector-borne,17,29th wk 2024.pdf,MH/STR/2024/29/1614
+2024,30,Ahilyanagar,Cholera,water-borne,6,30th wk 2024.pdf,MH/AMN/2024/30/1723
+2024,30,Gadchiroli,Malaria,vector-borne,6,30th wk 2024.pdf,MH/GDC/2024/30/1725
+2024,30,Gadchiroli,Malaria,vector-borne,2,30th wk 2024.pdf,MH/GDC/2024/30/1726
+2024,30,Gadchiroli,Malaria,vector-borne,4,30th wk 2024.pdf,MH/GDC/2024/30/1727
+2024,30,Jalgaon,Cholera,water-borne,13,30th wk 2024.pdf,MH/JLG/2024/30/1728
+2024,30,Nashik,Dengue,vector-borne,3,30th wk 2024.pdf,MH/NSK/2024/30/1729
+2024,30,Nashik,Dengue,vector-borne,1,30th wk 2024.pdf,MH/NSK/2024/30/1730
+2024,30,Yavatmal,Cholera,water-borne,8,30th wk 2024.pdf,MH/YVT/2024/30/1732
+2024,31,Chandrapur,Malaria,vector-borne,2,31st wk 2024.pdf,MH/CDP/2024/31/1817
+2024,31,Dhule,Dengue,vector-borne,15,31st wk 2024.pdf,MH/DHL/2024/31/1818
+2024,31,Dhule,Dengue,vector-borne,22,31st wk 2024.pdf,MH/DHL/2024/31/1819
+2024,31,Nagpur,Dengue,vector-borne,17,31st wk 2024.pdf,MH/NGP/2024/31/1820
+2024,31,Parbhani,Chikungunya,vector-borne,23,31st wk 2024.pdf,MH/PRB/2024/31/1821
+2024,31,Pune,Zika,vector-borne,1,31st wk 2024.pdf,MH/PUN/2024/31/1822
+2024,31,Pune,Zika,vector-borne,9,31st wk 2024.pdf,MH/PUN/2024/31/1852
+2024,31,Pune,Zika,vector-borne,5,31st wk 2024.pdf,MH/PUN/2024/31/1853
+2024,31,Pune,Zika,vector-borne,7,31st wk 2024.pdf,MH/PUN/2024/31/1854
+2024,31,Solapur,Zika,vector-borne,1,31st wk 2024.pdf,MH/SLP/2024/31/1824
+2024,31,Washim,Chikungunya,vector-borne,19,31st wk 2024.pdf,MH/WSM/2024/31/1825
+2024,32,Bhandara,Chickenpox,air-borne,18,32nd wk 2024.pdf,MH/BND/2024/32/1927
+2024,32,Pune,Zika,vector-borne,1,32nd wk 2024.pdf,MH/PNE/2024/32/1929
+2024,32,Pune,Zika,vector-borne,3,32nd wk 2024.pdf,MH/PNE/2024/32/1961
+2024,32,Pune,Zika,vector-borne,2,32nd wk 2024.pdf,MH/PNE/2024/32/1962
+2024,32,Pune,Zika,vector-borne,1,32nd wk 2024.pdf,MH/PNE/2024/32/1963
+2024,33,Pune,Zika,vector-borne,2,33rd wk 2024_Final.pdf,MH/PNE/2024/33/2040
+2024,33,Satara,Chikungunya,vector-borne,28,33rd wk 2024_Final.pdf,MH/STA/2024/33/2014
+2024,34,Pune,Zika,vector-borne,1,34th wk 2024 _ Rev.pdf,MH/PNE/2024/34/2113
+2024,34,Pune,Zika,vector-borne,1,34th wk 2024 _ Rev.pdf,MH/PNE/2024/34/2114
+2024,35,Beed,Hepatitis A,water-borne,9,35th wk 2024.pdf,MH/BED/2024/35/2153
+2024,35,Palghar,Malaria,vector-borne,41,35th wk 2024.pdf,MH/PLG/2024/35/2154
+2024,35,Pune,Dengue,vector-borne,37,35th wk 2024.pdf,MH/PNE/2024/35/2182
+2024,36,Dharashiv,Dengue,vector-borne,21,Revised 36th wk 2024.pdf,MH/OSM/2024/36/2224
+2024,36,Kolhapur,Hepatitis A,water-borne,48,Revised 36th wk 2024.pdf,MH/KOP/2024/36/2222
+2024,36,Nanded,Dengue,vector-borne,7,Revised 36th wk 2024.pdf,MH/NAN/2024/36/2223
+2024,36,Thane,Dengue,vector-borne,7,Revised 36th wk 2024.pdf,MH/THE/2024/36/2226
+2024,36,Thane,Malaria,vector-borne,1,Revised 36th wk 2024.pdf,MH/THE/2024/36/2225
+2024,36,Thane,Malaria,vector-borne,4,Revised 36th wk 2024.pdf,MH/THE/2024/36/2252
+2024,37,Gadchiroli,Malaria,vector-borne,5,37th wk 2024_Final.pdf,MH/GDC/2024/37/2309
+2024,38,Gadchiroli,Acute gastroenteritis,water-borne,65,38th wk 2024.pdf,MH/GDC/2024/38/2337
+2024,38,Pune,Cholera,water-borne,6,38th wk 2024.pdf,MH/PNE/2024/38/2339
+2024,38,Pune,Dengue,vector-borne,6,38th wk 2024.pdf,MH/PNE/2024/38/2363
+2024,39,Beed,Hepatitis A,water-borne,10,Final_39th wk 2024.pdf,MH/BED/2024/39/2393
+2024,39,Bhandara,Hepatitis A,water-borne,12,Final_39th wk 2024.pdf,MH/BND/2024/39/2394
+2024,39,Thane,Cholera,water-borne,7,Final_39th wk 2024.pdf,MH/THE/2024/39/2411
+2024,39,Thane,Cholera,water-borne,18,Final_39th wk 2024.pdf,MH/THE/2024/39/2412
+2024,39,Washim,Chikungunya,vector-borne,9,Final_39th wk 2024.pdf,MH/WAS/2024/39/2397
+2024,40,Gondia,Cholera,water-borne,17,40th wk 2024.pdf,MH/GOG/2024/40/2451
+2024,40,Latur,Chikungunya,vector-borne,19,40th wk 2024.pdf,MH/LAT/2024/40/2452
+2024,42,Ahilyanagar,Cholera,water-borne,8,42nd wk 2024.pdf,MH/AMN/2024/42/2562
+2024,42,Nanded,Chikungunya,vector-borne,7,42nd wk 2024.pdf,MH/NAD/2024/42/2565
+2024,42,Parbhani,Chikungunya,vector-borne,6,42nd wk 2024.pdf,MH/PRB/2024/42/2567
+2024,42,Thane,Acute gastroenteritis,water-borne,6,42nd wk 2024.pdf,MH/THE/2024/42/2568
+2024,43,Raigad,Hepatitis A,water-borne,37,Final_43rd wk 2024 (1).pdf,MH/RIG/2024/43/2633
+2024,44,Palghar,Dengue,vector-borne,22,44th wk 2024.pdf,MH/PLG/2024/44/2659
+2024,45,Ahilyanagar,Dengue,vector-borne,23,45th wk 2024.pdf,MH/AHM/2024/45/2701
+2024,46,Parbhani,Chikungunya,vector-borne,14,46th wk 2024.pdf,MH/PRB/2024/46/2750
+2024,46,Raigad,Chikungunya,vector-borne,27,46th wk 2024.pdf,MH/RIG/2024/46/2751
+2024,47,Wardha,Dengue,vector-borne,5,Final_47th wk 2024.pdf,MH/WHD/2024/47/2809
+2024,48,Amravati,Chikungunya,vector-borne,12,48th wk 2024.pdf,MH/AMR/2024/48/2847
+2024,48,Nanded,Chikungunya,vector-borne,14,48th wk 2024.pdf,MH/NAN/2024/48/2850
+2024,48,Pune,Zika,vector-borne,1,48th wk 2024.pdf,MH/PNE/2024/48/2852
+2024,48,Sindhudurg,Hepatitis A,water-borne,10,48th wk 2024.pdf,MH/SIN/2024/48/2853
+2024,48,Washim,Dengue,vector-borne,9,48th wk 2024.pdf,MH/WAS/2024/48/2854
+2024,49,Sangli,Hepatitis A,water-borne,9,Final_49th wk 2024.pdf,MH/SAN/2024/49/2887
+2024,50,Gadchiroli,Malaria,vector-borne,2,50th wk 2024.pdf,MH/GDC/2024/50/2935
+2024,52,Dharashiv,Chikungunya,vector-borne,5,52nd wk 2024.pdf,MH/OSM/2024/52/3008
+2025,1,Satara,Chikungunya,vector-borne,17,1st wk 2025.pdf,MH/STR/2025/01/17
+2025,3,Amravati,Acute gastroenteritis,water-borne,12,3rd wk 2025.pdf,MH/AMR/2025/03/79
+2025,4,Jalgaon,Measles,air-borne,17,4th Week 2025.pdf,MH/JAL/2025/04/145
+2025,6,Thane,Chikungunya,vector-borne,15,Revised 6th wk 2025.pdf,MH/THN/2025/06/224
+2025,7,Akola,Enteric fever,water-borne,30,7th wk 2025_Final.pdf,MH/AKL/2025/07/265
+2025,7,Latur,Measles,air-borne,27,7th wk 2025_Final.pdf,MH/LAT/2025/07/269
+2025,8,Kolhapur,Hepatitis A,water-borne,25,8th wk 2025.pdf,MH/KOL/2025/08/329
+2025,8,Sangli,Acute gastroenteritis,water-borne,10,8th wk 2025.pdf,MH/SAN/2025/08/330
+2025,9,Jalgaon,Jaundice,water-borne,12,9th wk 2025_Final.pdf,MH/JAL/2025/09/386
+2025,9,Sangli,Enteric fever,water-borne,39,9th wk 2025_Final.pdf,MH/SNG/2025/09/390
+2025,9,Sangli,Hepatitis A,water-borne,34,9th wk 2025_Final.pdf,MH/SNG/2025/09/389
+2025,10,Latur,Chickenpox,air-borne,22,10th wk 2025.pdf,MH/LAT/2025/10/431
+2025,10,Washim,Chikungunya,vector-borne,7,10th wk 2025.pdf,MH/WAS/2025/10/434
+2025,11,Jalgaon,Measles,air-borne,3,11th wk 2025_Final.pdf,MH/JAL/2025/11/483
+2025,12,Kolhapur,Hepatitis A,water-borne,15,12th wk 2025.pdf,MH/KOL/2025/12/528
+2025,15,Dharashiv,Chikungunya,vector-borne,11,73169914541749106418.pdf,MH/DHR/2025/15/644
+2025,15,Gondia,Chickenpox,air-borne,30,73169914541749106418.pdf,MH/GON/2025/15/645
+2025,16,Dharashiv,Acute gastroenteritis,water-borne,17,16111524191749201952.pdf,MH/DHR/2025/16/690
+2025,16,Nanded,Acute gastroenteritis,water-borne,64,16111524191749201952.pdf,MH/NAN/2025/16/692
+2025,21,Jalgaon,Dengue,vector-borne,22,63892529841752814846.pdf,MH/JAL/2025/21/914
+2025,22,Jalgaon,Dengue,vector-borne,16,63053630001754370208.pdf,MH/JAL/2025/22/940
+2025,22,Thane,Dengue,vector-borne,6,63053630001754370208.pdf,MH/THA/2025/22/958
+2025,24,Yavatmal,Malaria,vector-borne,4,40497724221754048530.pdf,MH/YAV/2025/24/1065
+2025,28,Dharashiv,Dengue,vector-borne,64,102422351756882459.pdf,MH/DHA/2025/28/1267
+2025,28,Gadchiroli,Malaria,vector-borne,4,102422351756882459.pdf,MH/GAD/2025/28/1269
+2025,28,Gadchiroli,Malaria,vector-borne,6,102422351756882459.pdf,MH/GAD/2025/28/1270
+2025,28,Gadchiroli,Malaria,vector-borne,6,102422351756882459.pdf,MH/GAD/2025/28/1271
+2025,28,Palghar,Malaria,vector-borne,11,102422351756882459.pdf,MH/PAL/2025/28/1273
+2025,29,Kolhapur,Hepatitis A,water-borne,8,59365499701757416180.pdf,MH/KOL/2025/29/1325
+2025,35,Jalgaon,Dengue,vector-borne,47,46133455371760349558.pdf,MH/JAL/2025/35/1635
+2025,40,Chhatrapati Sambhajinagar,Dengue,vector-borne,17,31351332071764654053.pdf,MH/CHH/2025/40/1847
+2025,41,Dhule,Chikungunya,vector-borne,27,41st wk 2025.pdf,
+2025,42,Chhatrapati Sambhajinagar,Dysentery,water-borne,96,42nd wk 2025.pdf,
+2025,42,Satara,Acute diarrhoeal disease,water-borne,29,42nd wk 2025.pdf,
+2025,42,Satara,Cholera,water-borne,235,42nd wk 2025.pdf,
+2025,43,Sindhudurg,Dengue,vector-borne,13,43rd wk 2025.pdf,
+2025,44,Washim,Acute diarrhoeal disease,water-borne,27,44th wk 2025.pdf,
+2025,45,Chhatrapati Sambhajinagar,Malaria,vector-borne,3,45th wk 2025.pdf,
+2025,45,Dharashiv,Dengue,vector-borne,38,45th wk 2025.pdf,
+2025,45,Washim,Dengue,vector-borne,17,45th wk 2025.pdf,
+2025,46,Nanded,Zika,vector-borne,1,46th wk 2025.pdf,
+2025,46,Nandurbar,Dengue,vector-borne,14,46th wk 2025.pdf,
+2025,47,Kolhapur,Chikungunya,vector-borne,11,47th wk 2025.pdf,
+2025,47,Ratnagiri,Cholera,water-borne,8,47th wk 2025.pdf,
+2025,47,Sangli,Dengue,vector-borne,10,47th wk 2025.pdf,
+2025,48,Nashik,Dengue,vector-borne,2,48th wk 2025.pdf,
+2025,49,Satara,Dengue,vector-borne,6,49th wk 2025.pdf,
+2025,50,Beed,Acute diarrhoeal disease,water-borne,37,50th wk 2025.pdf,
+2025,50,Pune,Chikungunya,vector-borne,5,50th wk 2025.pdf,
+2025,51,Thane,Acute diarrhoeal disease,water-borne,15,51st wk 2025.pdf,
+2025,52,Amravati,Cholera,water-borne,2,52nd wk 2025.pdf,
+2025,52,Bhandara,Measles,air-borne,4,52nd wk 2025.pdf,
+2025,52,Kolhapur,Dengue,vector-borne,11,52nd wk 2025.pdf,
+2025,52,Satara,Acute diarrhoeal disease,water-borne,25,52nd wk 2025.pdf,
+2025,52,Thane,Dengue,vector-borne,42,52nd wk 2025.pdf,
+2026,1,Ahilyanagar,Cholera,water-borne,8,1st wk 2026.pdf,
+2026,2,Amravati,Dengue,vector-borne,2,2nd wk 2026.pdf,
+2026,2,Satara,Malaria,vector-borne,23,2nd wk 2026.pdf,
+2026,3,Chhatrapati Sambhajinagar,Malaria,vector-borne,33,3rd wk 2026.pdf,
+2026,3,Dharashiv,Malaria,vector-borne,9,3rd wk 2026.pdf,
+2026,4,Thane,Malaria,vector-borne,13,4th wk 2026.pdf,
+2026,5,Pune,Chikungunya,vector-borne,4,5th wk 2026.pdf,
+2026,6,Yavatmal,Dengue,vector-borne,35,6th wk 2026.pdf,
+2026,7,Thane,Dengue,vector-borne,6,7th wk 2026.pdf,
+2026,8,Amravati,Dengue,vector-borne,2,8th wk 2026.pdf,
+2026,8,Nanded,Malaria,vector-borne,9,8th wk 2026.pdf,
+2026,9,Bhandara,Dengue,vector-borne,2,9th wk 2026.pdf,

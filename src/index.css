@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Kill Vite template framing */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  max-width: none !important;
+  padding: 0 !important;
+  text-align: left !important;
+}
